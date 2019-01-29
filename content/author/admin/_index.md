@@ -1,45 +1,45 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Robert Howton"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Assistant Professor of Philosophy"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Koç University", url = "https://ku.edu.tr/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
-
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# interests = [
+#   "Artificial Intelligence",
+#   "Computational Linguistics",
+#   "Information Retrieval"
+# ]
+#
+# # List qualifications (such as academic degrees)
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
+#
+# [[education.courses]]
+#   course = "MEng in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2009
+#
+# [[education.courses]]
+#   course = "BSc in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2008
 
 # Social/Academic Networking
 #
@@ -60,24 +60,29 @@ interests = [
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+icon = "academia"
+icon_pack = "ai"
+link = "https://ku.academia.edu/RobertHowton"
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+icon = "philpapers"
+icon_pack = "ai"
+link = "https://philpeople.org/profiles/robert-howton"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+icon = "google-scholar"
+icon_pack = "ai"
+link = "https://scholar.google.com/citations?user=Xp3__hUAAAAJ&hl=en&authuser=2"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+icon = "orcid"
+icon_pack = "ai"
+link = "https://orcid.org/0000-0002-1056-5182"
+
+[[social]]
+icon = "envelope"
+icon_pack = "fas"
+link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +93,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Assistant Professor in the Department of Philosophy at Koç University in Istanbul. I received my PhD in 2017 from the Department of Philosophy and the Collaborative Programme in Ancient and Medieval Philosophy at the University of Toronto. Before coming to Koç, I was Visiting Lecturer in the Department of Philosophy at the University of Pittsburgh.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests lie principally in ancient Greek and Roman philosophy and the philosophy of perception. Currently, I am writing on a cluster of topics in Aristotle's psychology and natural science, including: perceptual discrimination, the metaphysics of color and other sensible qualities, the epistemic value of sense experience, and the status of soul as a final cause in the Aristotelian life sciences.
