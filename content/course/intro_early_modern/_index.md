@@ -49,7 +49,7 @@ The job of my lectures is to introduce you to the theories, concepts, and proble
 
 ### Class Discussion
 
-Philosophy is a _discursive_ enterprise: progress in understanding and evaluating philosophical ideas is most effectively made through interpersonal discussion, where you can test, correct, and improve your understanding of those ideas. To help you engage with philosophical ideas in this way, we will meet periodically for  general class discussion of the topics recently introduced in the lecture. In preparation for these meetings, students will be assigned short **reading reflections**, which must be submitted before arriving for class discussion.
+Philosophy is a _discursive_ enterprise: progress in understanding and evaluating philosophical ideas is most effectively made through interpersonal discussion, where you can test, correct, and improve your understanding of those ideas. To help you engage with philosophical ideas in this way, we will meet periodically for  general class discussion of the topics recently introduced in the lecture. Upon arrival at these meetings, students will complete a short **reading reflection** on the texts assigned for that meeting.
 
 ## Evaluation
 
