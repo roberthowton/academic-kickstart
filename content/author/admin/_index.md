@@ -13,7 +13,7 @@ role = "Assistant Professor of Philosophy"
 organizations = [ { name = "Koç University", url = "https://ku.edu.tr/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "I am Assistant Professor of Philosophy at Koç University, Istanbul, specializing in ancient Greek and Roman philosophy and the philosophy of perception."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
