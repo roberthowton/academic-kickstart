@@ -23,8 +23,8 @@ All dates given below are subject to change.
 
 | <span>          |                           |
 |-----------------|---------------------------|
-| 21 February     | Term Paper 1 Posted       |
-| 7 March         | Term Paper 1 Due          |
+| 26 February     | Term Paper 1 Posted       |
+| 12 March         | Term Paper 1 Due          |
 | 21 March        | Term Test 1               |
 | 4 April         | Term Paper 2 Posted       |
 | 23 April        | Term Paper 2 Due          |

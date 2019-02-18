@@ -103,7 +103,7 @@ Both are available at Pandora.
 
 ### Additional Materials
 
-Students looking for additional study materials are encouraged to consult the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/). I am also compiling a playlist of YouTube videos related to modern philosophy; there is a link to it in the Course Documents folder on CourseWeb.
+Students looking for additional study materials are encouraged to consult the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/). I am also compiling a playlist of YouTube videos related to modern philosophy; there is a link to it on Blackboard.
 
 ## Course Policies
 
