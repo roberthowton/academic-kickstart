@@ -54,13 +54,13 @@ All dates given below are subject to change.
 | **Unit 2**      | **Metaphysics After Descartes: the Mind-Body Problem**                              |
 | 28 February & 5 March        | **2.1** Discovery of the Problem: Elisabeth of Bohemia & Malebranche        |
 | | <i class="fa fa-book-open"></i> Elisabeth of Bohemia, Selections from _Correspondence with Descartes_ <sup>A</sup>   |
-| | <i class="fa fa-book-open"></i> Nicolas Malebranche, Selections from _The Search After Truth_ <sup>AW (**Optional**)</sup>           |
+| | <i class="fa fa-book-open"></i> Nicolas Malebranche, Selections from _The Search After Truth_ <sup>AW</sup> (**Optional**)           |
 | | <i class="fa fa-book-open"></i> Margaret Cavendish, Selections from _Philosophical Letters_ <sup>A</sup>             |
 | 7 March        | **2.2** Is Mind-Body Interaction a Miracle? Malebranche and Leibniz                               |
 | | <i class="fa fa-book-open"></i> G. W. Leibniz, _New System_ <sup>AW</sup>                             |
 | | <i class="fa fa-book-open"></i> Damaris Cudworth, Selections from _Correspondence with Leibniz_ <sup>A</sup> (**Optional**) |
 | 12 & 14 March 	        | **2.3** Idealism: Berkeley's Empiricist Critique of Matter |
-| | <i class="fa fa-book-open"></i> George Berkeley, _Principles_, Preface & Part I <sup>AW</sup> |
+| | <i class="fa fa-book-open"></i> George Berkeley, _Three Dialogues_, Preface & First Dialogue <sup>AW</sup> |
 | | <i class="fa fa-book-open"></i> Mary Shepherd, Selections from _Essays_ <sup>A</sup>|
 | 19 March        | Unit 2 Discussion |
 | 21 March        | **Term Test 1** |
