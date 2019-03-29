@@ -65,7 +65,7 @@ All dates given below are subject to change.
 | 19 March        | Unit 2 Discussion |
 | 21 March        | **Term Test 1** |
 | **Unit 3**      | **Epistemology after Descartes: Rationalism & Empiricism** |
-| 26 & 28 March   | **3.1** Locke's Critique of Nativism  |
+| 26 & 28 March   | **3.1** Locke's Critique of Innatism  |
 | | <i class="fa fa-book-open"></i> John Locke, _Essay_ I.i, I.ii.1--8, 15--16, 22 <sup>AW</sup> |
 | | <i class="fa fa-book-open"></i> G. W. Leibniz, Selections from Preface to the _New Essays_ <sup>AW</sup> |
 | 2 & 4 April	    | **3.2** Locke's Empiricism |
