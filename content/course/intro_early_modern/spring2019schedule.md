@@ -76,7 +76,7 @@ All dates given below are subject to change.
 | **Unit 4**      | **Rationalism After Descartes: Kant's Transcendental Philosophy** |
 | 30 April & 2 May | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
 | | <i class="fa fa-book-open"></i> _Prolegomena to any Future Metaphysics_, Preface & Preamble <sup>AW</sup> |
-| 7 & 9 May      | **4.2** Kant's _Prolegomena_ II: Mathematics & Pure Natural Science |
+| 7 & 9 May      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 6--23, 27--38 <sup>AW</sup> |
 | 14 May | **4.3** Kant's Prolegomena III: A Science of Metaphysics? |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 40--44, Scholium: Solution to the General Question of the Prolegomena, "How is metaphysics possible as a science?" <sup>AW</sup> |
