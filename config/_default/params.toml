@@ -51,7 +51,7 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "robert.f.howton@gmail.com"
-phone = "+90 544 445 08 85"
+phone = ""
 address = "SOS 156, Koç University, Rumelifeneri Yolu 34450, Sarıyer-İstanbul,Türkiye"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
