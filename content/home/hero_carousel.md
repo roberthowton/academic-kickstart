@@ -1,8 +1,9 @@
 +++
 # Hero Carousel widget.
-widget = "hero_carousel"
+widget = "slider"
 active = false
 date = 2017-10-15T00:00:00
+headless = true
 
 # Order that this section will appear in.
 weight = 1

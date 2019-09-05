@@ -2,9 +2,10 @@
 # Featured Publications widget.
 # This widget displays publications from `content/publication/` which have
 # `featured = true` in their `+++` front matter.
-widget = "publications_featured"
+widget = "featured"
 active = false
 date = 2016-04-20T00:00:00
+headless = true
 
 title = "Featured Publications"
 subtitle = ""

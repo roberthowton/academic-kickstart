@@ -8,10 +8,10 @@ toc = true
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Schedule"
-[menu.intro_early_modern]
-  parent = "Spring 2019"
-  weight = 2
+# linktitle = "Schedule"
+# [menu.intro_early_modern]
+#   parent = "Spring 2019"
+#   weight = 2
 
 +++
 
