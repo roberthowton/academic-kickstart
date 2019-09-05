@@ -8,10 +8,10 @@ toc = false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Basic Information"
-[menu.intro_early_modern]
-  parent = "Spring 2019"
-  weight = 1
+# linktitle = "Basic Information"
+# [menu.intro_early_modern]
+#   parent = "Spring 2019"
+#   weight = 1
 
 +++
 

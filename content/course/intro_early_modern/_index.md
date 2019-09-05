@@ -6,6 +6,7 @@ date = 2018-12-02T10:23:40+03:00
 draft = false
 toc = true
 type = "docs"  # Do not modify.
+layout = "docs"
 
 # Add menu entry to sidebar
 [menu.intro_early_modern]
