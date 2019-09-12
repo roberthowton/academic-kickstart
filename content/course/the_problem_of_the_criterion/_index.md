@@ -115,7 +115,7 @@ Additional readings will be posted to Blackboard. Scholarship on ancient epistem
 
 - Algra, Keimpe, ed. 1999. _The Cambridge History of Hellenistic Philosophy_. Cambridge: Cambridge University Press.
 - Schofield, Malcolm, Myles Burnyeat, and Jonathan Barnes, eds. 1980. _Doubt and Dogmatism: Studies in Hellenistic Epistemology_. Oxford: Clarendon Press.
-- Annas, Julia and Jonathan Barnes (eds.). 2000. _Sextus Empiricus: Outlines of Scepticism_. Cambridge: Cambridge University Press.
+- Annas, Julia and Jonathan Barnes, eds. 2000. _Sextus Empiricus: Outlines of Scepticism_. Cambridge: Cambridge University Press.
 - Bett, Richard, ed. 2005. _Sextus Empiricus: Against the Logicians_. Cambridge: Cambridge University Press.
 
 ## Course Policies

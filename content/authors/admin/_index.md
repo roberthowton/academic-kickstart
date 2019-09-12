@@ -80,6 +80,11 @@ icon_pack = "ai"
 link = "https://orcid.org/0000-0002-1056-5182"
 
 [[social]]
+icon = "keybase"
+icon_pack = "fab"
+link = "https://keybase.io/roberthowton"
+
+[[social]]
 icon = "envelope"
 icon_pack = "fas"
 link = "#contact"  # For a direct email link, use "mailto:test@example.org".

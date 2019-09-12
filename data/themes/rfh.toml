@@ -1,0 +1,20 @@
+# Theme metadata
+name = "rfh"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+# primary = "#E13D3D"
+primary = "#c2c2c2"
+
+# Menu
+menu_primary = "#ffffff"
+menu_text = "#262626"
+menu_text_active = "#9b9b9b"
+menu_title = "#262626"
+
+# Backgrounds
+background = "#ffffff"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
