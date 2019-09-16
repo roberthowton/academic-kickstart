@@ -50,7 +50,7 @@ If you keep up with the lectures and readings you will not be assigned anything 
 Each student's success in meeting these objectives will be assessed on the following bases:
 
 - Students will be expected to write **two term tests** covering the major ideas presented in class, as well as **two term papers** responding in-depth to questions prompted by course readings.
-- Additionaly, student attendance and class participation will be assessed on the basis of **reading response questions**. Questions will be posted to Blackboard at the start of each Unit and will be due by midnight before the third and final meeting of the Unit, which will be devoted to in-depth discussion of course readings. (Students may opt out of reading responses with no penalty only _once_; with the exception of University excused absences, which must be supported by official documentation, students must complete _all_ other reading responses and attend all other class meetings.)
+- Additionally, student attendance and class participation will be assessed on the basis of **reading response questions** given out on the third meeting of each unit, which will be devoted to class discussion and group activities. Students may opt out of reading responses with no penalty only _once_; with the exception of University excused absences, which must be supported by official documentation, students must complete _all_ other reading responses and attend all other class meetings.
 - Finally, on discussion days students will be assessed for their **participation** in class discussion and group activities.
 
 ## Evaluation

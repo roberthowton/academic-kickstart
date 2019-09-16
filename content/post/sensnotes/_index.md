@@ -10,17 +10,17 @@ layout = "docs"
 
 # Add menu entry to sidebar
 [menu.sensnotes]
-  name = "Sigla and Provisional Stemma"
+  name = "Stemma & Sigla"
   weight = 1
 +++
 
-# Sigla and Povisional Stemma
+# Stemma & Sigla
 
 ![Feature Image](stemma.jpg)
 
-## Conspectus Siglorum
+<!-- ## Conspectus Siglorum -->
 
-### Families
+## Families
 
 | <span>  |                                                                    |
 |---------|--------------------------------------------------------------------|
@@ -36,7 +36,7 @@ layout = "docs"
 | _π_     | N + (until approximately 442b26) V                                 |
 | _η_     | SO<sup>d</sup>W                                                    |
 
-### Manuscripts
+## Manuscripts
 
 | <span>        |                                                              |
 |---------------|--------------------------------------------------------------|
