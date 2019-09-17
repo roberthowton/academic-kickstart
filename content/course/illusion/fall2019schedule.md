@@ -41,7 +41,7 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 | 17 Sept.          |            | _Course Introduction & Syllabus_            |
 |                   | _Further_ | <i class="fab fa-youtube"></i> [Oliver Sacks, "What Hallucination Reveals about our Minds"](https://www.youtube.com/watch?v=SgOTaXhbqPQ)                                                           |
 |                   | **Unit 1** | **Illusion, Hallucination, & the Problem of Perception**                                                                   |
-| 27 Sept.--1 Oct.  | **1.1**    | _Appearance & Reality_                      |
+| 24 Sept.--1 Oct.  | **1.1**    | _Appearance & Reality_                      |
 |                   | _Prep._    | <i class="fab fa-youtube"></i> [Wi-Phi, "The Argument from Illusion"](https://www.youtube.com/watch?v=bs2pTBkJCxQ&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=1)           |
 |                   |            | <i class="fab fa-youtube"></i> [Wi-Phi, "The Argument from Hallucination"](https://www.youtube.com/watch?v=wrKAHhwSWtk&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=2)           |
 |                   | _Discuss_  | <i class="fa fa-book-open"></i> [Bertrand Russell, "Appearance and Reality"](http://blackboard.ku.edu.tr)                |

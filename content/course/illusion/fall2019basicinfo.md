@@ -21,5 +21,5 @@ linktitle = "Basic Information"
 | _Office Hours_        | TuTh 15:00--16:00, SOS 156               |
 | **Lectures**          | TuTh 13:00--14:15, SCI 129               |
 | **Course Website**    | [Blackboard](https://ku.blackboard.com/) |
-| **Teaching Assistant**| [_TBA_ <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                                      |
-| _Office Hours_        | _TBA_                                    |
+| **Teaching Assistant**| [Cansu İrem Meriç <i class="far fa-envelope"></i>](mailto:cansumeric19@ku.edu.tr)                                 |
+<!-- | _Office Hours_        | _TBA_                                    | -->
