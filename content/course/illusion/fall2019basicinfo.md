@@ -15,6 +15,17 @@ linktitle = "Basic Information"
 
 +++
 
+{{< rawhtml >}}
+<style>
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+</style>
+{{< /rawhtml >}}
+
 |<span>                 |                                          |
 |------------------     | -----------------------------------------|
 | **Instructor**        | [Robert Howton <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                                      |
@@ -22,4 +33,3 @@ linktitle = "Basic Information"
 | **Lectures**          | TuTh 13:00--14:15, SCI 129               |
 | **Course Website**    | [Blackboard](https://ku.blackboard.com/) |
 | **Teaching Assistant**| [Cansu İrem Meriç <i class="far fa-envelope"></i>](mailto:cansumeric19@ku.edu.tr)                                 |
-<!-- | _Office Hours_        | _TBA_                                    | -->

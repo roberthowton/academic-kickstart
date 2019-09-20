@@ -1,9 +1,9 @@
 +++
-title = "Notes on Aristotle, De Sensu"
+title = "Aristotelis De Sensu et Sensibilibus"
 
 date = 2018-12-02T10:23:40+03:00
 
-draft = false
+draft = true
 toc = true
 type = "docs"  # Do not modify.
 layout = "docs"
@@ -24,7 +24,7 @@ layout = "docs"
 
 | <span>  |                                                                    |
 |---------|--------------------------------------------------------------------|
-| _α_     | EC<sup>c</sup> XyLH<sup>a</sup>M<sup>o</sup>B<sup>p</sup>O<sup>a</sup>W<sup>z</sup>vZ<sup>a</sup>NC<sup>a</sup>USO<sup>d</sup>W + (until approximately 442b26) V                                                        |
+| _α_     | EC<sup>c</sup>XyLH<sup>a</sup>M<sup>o</sup>B<sup>p</sup>O<sup>a</sup>W<sup>z</sup>vZ<sup>a</sup>NC<sup>a</sup>USO<sup>d</sup>W + (until approximately 442b26) V                                                        |
 | _β_     | B<sup>e</sup>PΓ2                                                   |
 | _γ_     | XyLH<sup>a</sup>M<sup>o</sup>B<sup>p</sup>O<sup>a</sup>W<sup>z</sup>vZ<sup>a</sup>NC<sup>a</sup>USO<sup>d</sup>W + (until approximately 442b26) V                                                                              |
 | _δ_     | XyLH<sup>a</sup> + (until approximately 444b1) M<sup>o</sup>O<sup>a</sup>B<sup>p</sup>W<sup>z</sup>                                    |

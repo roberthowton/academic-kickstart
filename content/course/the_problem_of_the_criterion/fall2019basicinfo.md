@@ -15,6 +15,17 @@ linktitle = "Basic Information"
 
 +++
 
+{{< rawhtml >}}
+<style>
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+</style>
+{{< /rawhtml >}}
+
 |<span>                 |                                          |
 |------------------     | -----------------------------------------|
 | **Instructor**        | [Robert Howton <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                                      |

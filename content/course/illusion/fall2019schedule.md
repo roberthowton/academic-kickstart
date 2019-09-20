@@ -14,6 +14,16 @@ linktitle = "Schedule"
   weight = 2
 
 +++
+{{< rawhtml >}}
+<style>
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+</style>
+{{< /rawhtml >}}
 
 {{% alert note %}}
 All dates given below are subject to change.
