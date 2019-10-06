@@ -3,7 +3,7 @@ title = "Aristotelis De Sensu et Sensibilibus"
 
 date = 2018-12-02T10:23:40+03:00
 
-draft = true
+draft = false
 toc = true
 type = "docs"  # Do not modify.
 layout = "docs"
