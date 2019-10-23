@@ -65,6 +65,7 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 |                   | _Prep._    | <i class="fa fa-headphones"></i> [History of Philosophy Without Any Gaps, "Healthy Skepticism: Sextus Empiricus"](https://historyofphilosophy.net/sextus)                                                |
 |                   | _Discuss_  | <i class="fa fa-book-open"></i> [Selections from Sextus Empiricus, _Outlines of Pyrrhonism_](http://blackboard.ku.edu.tr)  |
 |                   | _Further_ | <i class="fab fa-youtube"></i> [Guardian News, "Yanni v Laurel"](https://www.youtube.com/watch?v=7X_WvGAhMlQ&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=6)           |
+| 29 Oct.           |            | _Writing Workshop_                          |
 | 31 Oct.--7 Nov.   | **2.2**    | "Alternative Facts" & Scientific Progress   |
 |                   | _Prep._    | <i class="fa fa-headphones"></i> [Hi-Phi Nation, ``The Ashes of Truth''](https://hiphination.org/complete-season-one-episodes/episode-9-the-ashes-of-truth-april-18-2017/)                          |
 |                   | _Discuss_  | <i class="fa fa-book-open"></i> [Selections from Thomas Kuhn, _The Structure of Scientific Revolutions_](http://blackboard.ku.edu.tr)                                                          |
