@@ -1,5 +1,5 @@
 +++
-title = "The Problem of the Criterion"
+title = "Philosophy of Perception: Color and Color Vision"
 
 date = 2018-12-02T10:23:40+03:00
 
@@ -9,29 +9,27 @@ type = "docs"  # Do not modify.
 layout = "docs"
 
 # Add menu entry to sidebar
-[menu.the_problem_of_the_criterion]
+[menu.color]
   name = "Syllabus"
   weight = 1
 +++
 
-![Feature Image](homomensura2.jpg "An version of the 'Vetruvian Man' inspired by Protagoras' homo mensura doctrine")
-
-<!-- {{% toc %}} -->
+![Feature Image](chevreul.jpg)
 
 ## Course Description
 
-Is knowledge possible for us, and if so, how? For many epistemologists, both ancient and modern, whether and how knowledge is attainable depends on whether we possess some criterion or standard by which to judge what _is_ the case from what merely _appears_ to be the case. This idea, that knowledge requires a _criterion of truth_, has its origins in antiquity, in Hellenistic debates between so-called Dogmatists and Skeptics about whether human beings possess---or can ever possess---such a criterion. Our aim in this course will be to explore the ancient roots of this "problem of the criterion", in order to gain a better understanding of the various arguments and positions of the dogmatic and skeptical Hellenistic schools, as well as the prehistory of this debate in Hellenic figures such as Protagoras, Democritus, and, more controversially, Plato and Aristotle.
+What are we aware of when we perceive? More often than not, philosophers have sought the answer to this question by looking to the nature of perceptual experience itself, asking for instance whether perception is a relation, what accounts for the phenomenal or qualitative character of perceptual experience, and how perceptual experiences manage to represent a mind-independent reality. In this course we will take a different starting point: the nature of the objects of perception themselves. Our primary focus will be _color_, a phenomenon that seems, paradoxically, at once the most familiar and most incomprehensible feature of the world familiar to our experience. Beginning with the science of color vision and the relation between the familiar hues and the structure of our visual system, we'll go on to consider questions of the nature of the colors, their relation to the physical properties of objects that appear colored, and how visual experience gives us knowledge of them. With any luck, we'll also have opportunity to discuss other sensible qualities, for instance sound.
 
 ## Course Objectives
 
-The course aims to establish a broad understanding of core issues in ancient epistemology and to develop the skills necessary for appreciating these and other issues in ancient and contemporary philosophy.
+The course aims to establish a broad understanding of core issues in the philosophy of color perception and to develop the skills necessary for appreciating these and other issues in the philosophy of mind and perception.
 
 ## Learning Outcomes
 
 The successful student will demonstrate the ability:
 
-- to state and articulate, verbally and in writing, major ideas and controversies related to ancient epistemology,
-- to read and critically assess relevant primary and secondary literature,
+- to state and articulate, verbally and in writing, major ideas and controversies related to the philosophy of perception,
+- to read and critically assess relevant literature,
 - to apply these skills to novel cases.
 
 {{% alert note %}}
@@ -42,13 +40,13 @@ If you keep up with the lectures and readings you will not be assigned anything 
 
 Students' success in meeting these course goals will be evaluated on the following bases:
 
-- **Undergraduate students** will be expected to write **two passage commentaries**. The commentaries are designed to stimulate in-depth historical and philosophical engagement with one of the major passages discussed in class and relevant secondary literature.
+- **Undergraduate students** will be expected to write **two short papers** designed to stimulate in-depth philosophical engagement with one of the major topics discussed in class.
 
-- **Graduate students** will be expected to write _either_ a **passage commentary** and a 12--15 page **final paper** _or_ a 20 page **final paper**. The final paper will address a substantive interpretive issue concerning Hellenistic epistemology and/or related philosophical issues. Topics and secondary literature will be selected in consultation with me.
+- **Graduate students** will be expected to write _either_ one **short paper** and a 12--15 page **final paper** _or_ a 20 page **final paper**. The final paper will address a substantive philosophical issue concerning the philosophy of perception. Topics and literature will be selected in consultation with me.
 
 - Class participation will be evaluated on the basis of the student's answer to periodic **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.)
 
-- Finally, students will give at least one 10--15 minute **in-class presentation**. Presentation topics and secondary literature will be selected in consultation with me.
+- Finally, students will give at least one 10--15 minute **in-class presentation**. Presentation topics will be selected in consultation with me.
 
 ## Evaluation
 
@@ -58,8 +56,8 @@ Final grades will be determined according to the following rubrics:
 
 | **Assignment**  | **% of Final Grade**          |
 |-----------------|-------------------------------|
-| Commentary 1    | 25%                           |
-| Commentary 2    | 35%                           |
+| Short Paper 1   | 25%                           |
+| Short Paper 2   | 35%                           |
 | Presentation    | 20%                           |
 | Participation   | 20%                           |
 | **Total**       | **100%**                      |
@@ -68,7 +66,7 @@ Final grades will be determined according to the following rubrics:
 
 | **Assignment**  | **% of Final Grade (Option 1)** | **% of Final Grade (Option 2)** |
 |-----------------|------------------------------------------|------------------------------------------|
-| Commentary      | 25%                                      |                                          |
+| Short Paper     | 25%                                      |                                          |
 | Final Paper     | 35%                                      | 60%                                      |
 | Presentation    | 20%                                      | 20%                                      |
 | Participation   | 20%                                      | 20%                                      |
@@ -103,20 +101,15 @@ Final grades are rounded up from the 2<sup>nd</sup> decimal place; no exceptions
 
 ### Required Texts
 
-There is one required text for the course:
-
-- Brittain, Charles (ed.). 2006. _Cicero: On Academic Scepticism_. Indianapolis, IN: Hackett Publishing Co.
-
-It is available at Pandora.
+There is no required text for the course. All readings will be posted to Blackboard.
 
 ### Additional Materials
 
-Additional readings will be posted to Blackboard. Scholarship on ancient epistemology since the late 20^th^ century has been for the most part excellent. Students seeking additional resources are encouraged to consult the bibliographies included with relevant entries in the [_Stanford Enclyclopedia of Philosophy_](plato.stanford.edu), as well as the following resources, which are on hold at the library:
+Students seeking a general introduction to the philosophy of perception are encouraged to consult:
 
-- Algra, Keimpe, ed. 1999. _The Cambridge History of Hellenistic Philosophy_. Cambridge: Cambridge University Press.
-- Schofield, Malcolm, Myles Burnyeat, and Jonathan Barnes, eds. 1980. _Doubt and Dogmatism: Studies in Hellenistic Epistemology_. Oxford: Clarendon Press.
-- Annas, Julia and Jonathan Barnes, eds. 2000. _Sextus Empiricus: Outlines of Scepticism_. Cambridge: Cambridge University Press.
-- Bett, Richard, ed. 2005. _Sextus Empiricus: Against the Logicians_. Cambridge: Cambridge University Press.
+- Fish, William. 2010. _Philosophy of Perception: A Contemporary Introduction_. New York & Oxon: Routledge.
+
+Students seeking additional resources are encouraged to consult the bibliographies included with relevant entries in the [_Stanford Enclyclopedia of Philosophy_](plato.stanford.edu).
 
 ## Course Policies
 

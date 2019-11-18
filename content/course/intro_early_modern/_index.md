@@ -95,12 +95,12 @@ You must complete _all_ assignments in order to pass the course!
 
 ### Required Texts
 
-There are two required texts for this course:
+Most of the readings for this course are collected in:
 
-1. Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 2<sup>nd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
-2. Atherton, Margaret. _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett Pub. Co, 1994.
+- Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 3<sup>rd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
+<!-- 2. Atherton, Margaret. _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett Pub. Co, 1994. -->
 
-Both are available at Pandora.
+It is available at Pandora. Additional readings will be posted to Blackboard.
 
 ### Additional Materials
 

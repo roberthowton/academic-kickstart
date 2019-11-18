@@ -75,7 +75,7 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 |                   | **Unit 3**  | **Learning by Perceiving?**                |
 | 19--26 Nov.       | **3.1**     | _Do Beliefs & Emotions Shape Our Experience?_                                                                   |
 |                   | _Prep._     | <i class="fab fa-youtube"></i> [CBS News, "Perceptual Learning"](https://www.youtube.com/watch?v=QiiyvzZBKT8&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=10)          |
-|                   | _Discuss_   | <i class="fa fa-globe"></i> [Kevin Connolly, "Perceptual Learning"](https://plato.stanford.edu/entries/perceptual-learning/)                                                                     |
+|                   | _Discuss_   | <i class="fa fa-globe"></i> [Anderson et al., "The Visual Impact of Gossip"](http://blackboard.ku.edu.tr)                                                                     |
 |                   | _Further_  | <i class="fab fa-youtube"></i> [Inc., "Daniel Kahneman: Thinking Fast vs. Thinking Slow"](https://www.youtube.com/watch?v=QiiyvzZBKT8&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=11)          |
 | 28 Nov.--5 Dec.   | **3.2**     | "Cognitive Penetration" & "the Problem of Hijacked Experience"                                                           |
 |                   | _Prep._     | <i class="fa fa-globe"></i> [The Harvard Implicit Bias Study](https://implicit.harvard.edu/implicit/)           |
