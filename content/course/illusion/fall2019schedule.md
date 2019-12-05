@@ -83,10 +83,10 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 |                   | _Further_  | <i class="fab fa-youtube"></i> [PBS Newshour, "Police Training and Implicit Bias"](https://www.youtube.com/watch?v=QiiyvzZBKT8&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=12)          |
 |                   | **Unit 4**  | **Appearance & Epistemic Authority, or: How to Spot Fake News**                                                            |
 | 10--17 Dec.       | **4.1**     | Fake News & "Epistemic Injustice"          |
-|                   | _Prep._     | <i class="fa fa-book-open"></i> [Selections from Aeschylus, _Agamemnon_](http://blackboard.ku.edu.tr)                      |
-|                   |             | <i class="fa fa-headphones"></i> [This American Life, "Anything Can Be Anything"](https://www.thisamericanlife.org/671/anything-can-be-anything)                                                      |
-|                   | _Discuss_   | <i class="fa fa-book-open"></i> [Axel Gelfert, "Fake News: A Definition"](http://blackboard.ku.edu.tr)               |
-|                   |             | <i class="fa fa-book-open"></i> [Miranda Fricker, "Rational Authority and Social Power"](http://blackboard.ku.edu.tr)   |
+|                   | _Prep._     | <i class="fa fa-headphones"></i> [This American Life, "Anything Can Be Anything"](https://www.thisamericanlife.org/671/anything-can-be-anything)                                                      |
+|                   | _Discuss_   | <i class="fa fa-book-open"></i> [Aeschylus, _Agamemnon_](http://blackboard.ku.edu.tr)                      |
+<!-- |                   | _Discuss_   | <i class="fa fa-book-open"></i> [Axel Gelfert, "Fake News: A Definition"](http://blackboard.ku.edu.tr)               |
+|                   |             | <i class="fa fa-book-open"></i> [Miranda Fricker, "Rational Authority and Social Power"](http://blackboard.ku.edu.tr)   | -->
 |                   | _Further_   | <i class="fab fa-youtube"></i> [Think Nice, "Bullshit! Featuring Harry Frankfurt"](https://www.youtube.com/watch?v=QiiyvzZBKT8&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=13)          |
 | 18, 19 Dec.   |             | _Review, Term Test 2_                      |
 
