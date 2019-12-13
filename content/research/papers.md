@@ -29,7 +29,7 @@ Status:
 Aristotle regards the senses as "discriminative" (_kritikê_), capacities not only to be affected by and perceive sensible qualities, but also to "discriminate and cognize something that is." Commentators since antiquity have tended to make two assumptions about the sensory capacity to discriminate: first that it is a capacity the senses have _essentially_, and second that its exercise results in a certain sort of _experience_, _e.g._ as of the difference between sensible qualities or their unity in a sensible body. I argue that both assumptions are mistaken. First, I argue that the capacity to discriminate is not essential but a scientifically knowable attribute of the senses, and that in _De Anima_ Aristotle offers two arguments explaining why the senses discriminate, one final causal and one formal causal. Second, I argue that the capacity these arguments attribute to the senses is epistemically far richer than commentators have supposed: the capacity to become aware of the mind-independent features of sensible bodies.
 
 Status:
-: In Progress
+: Nearing completion, will be under review by 2/2020
 
 ### "Mixture and Motion": Aristotle on the Nature of Sensible Qualities
 
