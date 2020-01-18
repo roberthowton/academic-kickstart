@@ -34,61 +34,62 @@ All dates given below are subject to change.
 
 | <span>          |                           |
 |-----------------|---------------------------|
-| 26 February     | Term Paper 1 Posted       |
-| 12 March         | Term Paper 1 Due          |
-| 21 March        | Term Test 1               |
-| 4 April         | Term Paper 2 Posted       |
-| 23 April        | Term Paper 2 Due          |
-| 16 May          | Term Test 2               |
+| 20 Feb     | Term Paper 1 Posted       |
+| 5 Mar         | Term Paper 1 Due          |
+| 12 Mar        | Term Test 1               |
+| 26 Mar         | Term Paper 2 Posted       |
+| 14 Apr        | Term Paper 2 Due          |
+| 7 May          | Term Test 2               |
 
 
 ## Schedule of Topics \& Readings
 
 {{% alert note %}}
-<sup>B</sup> Blackboard
+<sup>B</sup> = available on Blackboard
 {{% /alert %}}
 
 | <span>          |                                                                                     |
 |-----------------|-------------------------------------------------------------------------------------|
 | **Unit 0**      | **Introduction to Early Modern Philosophy**                                         |
-| 5 & 7 February        | _Descartes and the Scientific Revolution_                                           |
+| 28 & 30 Jan     | _Descartes and the Scientific Revolution_                                           |
 | | <i class="fa fa-book-open"></i> Francis Bacon, Selections from _New Organon_            |
 | | <i class="fa fa-book-open"></i> Galileo Galilei, Selections from _The Assayer_          |
 | | <i class="fa fa-book-open"></i> René Descartes, _Discourse on the Method_, Parts 1--2    |
 | **Unit 1**      | **Foundations: Descartes' _Meditations on First Philosophy_**                       |
-| 12 & 14 February           | **1.1** Descartes on Skepticism, Certainty, & God                                   |
+| 4 & 6 Feb           | **1.1** Descartes on Skepticism, Certainty, & God                                   |
 | | <i class="fa fa-book-open"></i> _Meditations_ I--III                       |
-| 19 & 21 February           | **1.2** Cartesian Dualism & Its Early Critics                                       |
+| 11 & 13 Feb           | **1.2** Cartesian Dualism & Its Early Critics                                       |
 | | <i class="fa fa-book-open"></i> _Meditations_ V--VI                                                      |
 | | <i class="fa fa-book-open"></i> "The Cartesian Circle": Selections from the _Objections and Replies_ <sup>B</sup>    |
-| 26 February        | Unit 1 Discussion |
+| 18 Feb        | Unit 1 Discussion |
 | **Unit 2**      | **Metaphysics After Descartes: the Mind-Body Problem**                              |
-| 28 February & 5 March        | **2.1** Discovery of the Problem: Elisabeth of Bohemia & Malebranche        |
+| 20 & 25 Feb        | **2.1** Discovery of the Problem: Elisabeth of Bohemia & Malebranche        |
 | | <i class="fa fa-book-open"></i> Elisabeth of Bohemia, Selections from _Correspondence with Descartes_    |
 | | <i class="fa fa-book-open"></i> Nicolas Malebranche, Selections from _The Search After Truth_  (**Optional**)           |
 | | <i class="fa fa-book-open"></i> Margaret Cavendish, Selections from _Philosophical Letters_              |
-| 7 March        | **2.2** Is Mind-Body Interaction a Miracle? Malebranche and Leibniz                               |
+| 27 Feb    | **2.2** Is Mind-Body Interaction a Miracle? Malebranche and Leibniz on Substance                             |
 | | <i class="fa fa-book-open"></i> G. W. Leibniz, _New System_                              |
 | | <i class="fa fa-book-open"></i> Damaris Cudworth, Selections from _Correspondence with Leibniz_  (**Optional**) |
-| 12 & 14 March 	        | **2.3** Idealism: Berkeley's Empiricist Critique of Matter |
+| 3 & 5 Mar 	        | **2.3** Idealism: Berkeley's Empiricist Critique of Matter |
 | | <i class="fa fa-book-open"></i> George Berkeley, _Three Dialogues_, Preface & First Dialogue  |
 | | <i class="fa fa-book-open"></i> Mary Shepherd, Selections from _Essays_ |
-| 19 March        | Unit 2 Discussion |
-| 21 March        | **Term Test 1** |
+| 10 Mar        | Unit 2 Discussion |
+| 12 Mar        | **Term Test 1** |
 | **Unit 3**      | **Epistemology after Descartes: Rationalism & Empiricism** |
-| 26 & 28 March   | **3.1** Locke's Critique of Innatism  |
+| 17 & 19 Mar   | **3.1** Locke's Critique of Innatism  |
 | | <i class="fa fa-book-open"></i> John Locke, _Essay_ I.i, I.ii.1--8, 15--16, 22  |
 | | <i class="fa fa-book-open"></i> G. W. Leibniz, Selections from Preface to the _New Essays_  |
-| 2 & 4 April	    | **3.2** Locke's Empiricism |
+| 24 & 26 Mar    | **3.2** Locke's Empiricism |
 | | <i class="fa fa-book-open"></i> John Locke, _Essay_ II.i.1--9, II.ii, II.viii.7--26, II.xii, II.xxiii.1--4  |
-| 16 & 18 April       | **3.3** Hume's Skeptical Empiricism |
+| 31 Mar & 2 Apr       | **3.3** Hume's Skeptical Empiricism |
 | | <i class="fa fa-book-open"></i> Hume, _Enquiry_ Sects. II--V  |
-| 25 April    | Unit 3 Discussion |
+| 14 Apr    | Unit 3 Discussion |
 | **Unit 4**      | **Rationalism After Descartes: Kant's Transcendental Philosophy** |
-| 30 April & 2 May | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
+| 16 & 21 Apr | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
 | | <i class="fa fa-book-open"></i> _Prolegomena to any Future Metaphysics_, Preface & Preamble  |
-| 7 & 9 May      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
+| 23 & 28 Apr      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 6--23, 27--38  |
-| 14 May | **4.3** Kant's Prolegomena III: A Science of Metaphysics? |
+| 30 Apr | **4.3** Kant's Prolegomena III: A Science of Metaphysics? |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 40--44, Scholium: Solution to the General Question of the Prolegomena, "How is metaphysics possible as a science?"  |
-| 16 May | **Term Test 2**   |
+| 5 May  | Unit 4 Discussion |
+| 7 May | **Term Test 2**   |

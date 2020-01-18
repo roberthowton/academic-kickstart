@@ -54,6 +54,9 @@ preserveTaxonomyNames = true
 	latexDashes = true
   extensions = ["backslashLineBreak"]
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

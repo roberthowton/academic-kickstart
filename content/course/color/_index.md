@@ -1,5 +1,5 @@
 +++
-title = "Philosophy of Perception: Color and Color Vision"
+title = "Philosophy of Perception: Color and Color Experience"
 
 date = 2018-12-02T10:23:40+03:00
 
@@ -73,7 +73,7 @@ Final grades will be determined according to the following rubrics:
 | **Total**       | **100%**                                 | **100%**                                 |
 
 {{% alert note %}}
-You must complete _all_ assignments in order to pass the course!
+You must complete _all_ assignments in order to pass the course. No extra assignments will be given.
 {{% /alert %}}
 
 #### Grading Scale
@@ -89,8 +89,8 @@ You must complete _all_ assignments in order to pass the course!
 | 73--76   	  | **C+** 	  | _Satisfies Some Grading Criteria; Some Major Errors_             	|
 | 70--72   	  | **C**  	  | _Satisfies Some Grading Criteria; Several Major Errors_          	|
 | 67--69   	  | **C-** 	  | _Satisfies Some Grading Criteria; Many Major Errors_             	|
-| 64--66   	  | **D+** 	  | _Satisfies Almost No Grading Criteria; At Least One Fatal Error_ 	|
-| 60--63   	  | **D**  	  | _Satisfies Almost No Grading Criteria; One or More Fatal Errors_ 	|
+| 64--66   	  | **D+** 	  | _Satisfies Almost No Grading Criteria; At Least One Critical Error_ 	|
+| 60--63   	  | **D**  	  | _Satisfies Almost No Grading Criteria; One or More Critical Errors_ 	|
 | 0--59    	  | **F**  	  | _Satisfies No Grading Criteria, Incomplete, or Plagiarized_      	|
 
 {{% alert note %}}

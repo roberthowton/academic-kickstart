@@ -70,7 +70,7 @@ Final grades will be determined according to the following rubric:
 | **Total**       | **100%**                  |
 
 {{% alert note %}}
-You must complete _all_ assignments in order to pass the course!
+You must complete _all_ assignments in order to pass the course. No extra assignments will be given.
 {{% /alert %}}
 
 ### Grading Scale
@@ -86,10 +86,13 @@ You must complete _all_ assignments in order to pass the course!
 | 73--76   	  | **C+** 	  | _Satisfies Some Grading Criteria; Some Major Errors_             	|
 | 70--72   	  | **C**  	  | _Satisfies Some Grading Criteria; Several Major Errors_          	|
 | 67--69   	  | **C-** 	  | _Satisfies Some Grading Criteria; Many Major Errors_             	|
-| 64--66   	  | **D+** 	  | _Satisfies Almost No Grading Criteria; At Least One Fatal Error_ 	|
-| 60--63   	  | **D**  	  | _Satisfies Almost No Grading Criteria; One or More Fatal Errors_ 	|
+| 64--66   	  | **D+** 	  | _Satisfies Almost No Grading Criteria; At Least One Critical Error_ 	|
+| 60--63   	  | **D**  	  | _Satisfies Almost No Grading Criteria; One or More Critical Errors_ 	|
 | 0--59    	  | **F**  	  | _Satisfies No Grading Criteria, Incomplete, or Plagiarized_      	|
 
+{{% alert note %}}
+Final grades will be rounded up from the 2<sup>nd</sup> decimal place; no exceptions will be made.
+{{% /alert %}}
 
 ## Texts & Course Materials
 
@@ -97,10 +100,10 @@ You must complete _all_ assignments in order to pass the course!
 
 Most of the readings for this course are collected in:
 
-- Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 3<sup>rd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
-<!-- 2. Atherton, Margaret. _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett Pub. Co, 1994. -->
+- Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 2<sup>nd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
+2. Atherton, Margaret. _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett Pub. Co, 1994.
 
-It is available at Pandora. Additional readings will be posted to Blackboard.
+Both are available at Pandora. Additional readings will be posted to Blackboard.
 
 ### Additional Materials
 

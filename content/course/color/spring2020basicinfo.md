@@ -30,5 +30,5 @@ linktitle = "Basic Information"
 |------------------     | -----------------------------------------|
 | **Instructor**        | [Robert Howton <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                                      |
 | **Office Hours**        | _TBD_, SOS 156               |
-| **Lectures**          | _TBD_              |
+| **Lectures**          | TuTh 16:00--17:15, CASE 216              |
 | **Course Website**    | [Blackboard](https://ku.blackboard.com/) |

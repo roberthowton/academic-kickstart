@@ -3,7 +3,7 @@ title = "Fall 2019 Schedule"
 
 date = 2019-01-22T14:16:58+00:00
 
-draft = false
+draft = true
 toc = true
 type = "docs"  # Do not modify.
 

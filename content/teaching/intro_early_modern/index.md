@@ -4,7 +4,7 @@
 title: "Early Modern Philosophy"
 summary: ""
 authors: []
-tags: [Past Courses]
+tags: [Current Courses]
 categories: []
 date: 2019-08-27T16:27:52+03:00
 
