@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: [Past Courses]
 categories: []
-date: 2019-08-27T16:27:52+03:00
+date: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: /course/the_problem_of_the_criterion

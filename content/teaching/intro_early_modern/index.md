@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: [Current Courses]
 categories: []
-date: 2019-08-27T16:27:52+03:00
+date: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: /course/intro_early_modern
