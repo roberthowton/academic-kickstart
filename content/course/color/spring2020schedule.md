@@ -23,11 +23,11 @@ All dates given below are subject to change.
 
 | <span>          |                                 |
 |-----------------|---------------------------------|
-| _TBA_           | Presentation Sign-Up Deadline   |
-| _TBA_           | Paper 1 Topics Posted           |
-| _TBA_           | Paper 1 Due                     |
-| _TBA_           | Paper 2 Topics Posted           |
-| _TBA_           | Paper 2/Final Paper Due         |
+| 6 Feb           | Presentation Sign-Up Deadline   |
+| 27 Feb          | Paper 1 Topics Posted           |
+| 19 Mar          | Paper 1 Due                     |
+| 16 Apr          | Paper 2 Topics Posted           |
+| 7 May           | Paper 2/Final Paper Due         |
 
 ## Schedule of Topics & Readings
 
