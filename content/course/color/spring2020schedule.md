@@ -34,7 +34,7 @@ All dates given below are subject to change.
 | <span>            |            |                                             |
 |-------------------|-----------:|---------------------------------------------|
 | 28 & 30  Jan      | **0.1**    | **Course Introduction: the Philosophical Problems of Color**                                                             |
-|                   | _Readings_ | Chirimuuta, _Outside Color_ Chs. 1--2       |
+|                   | _Readings_ | Chirimuuta, _Outside Color_ Ch. 1       |
 |                   | **Unit 1** | **Issues in Color Science**                 |
 | 4 & 6 Feb         | **1.1**    | _Basics of Color Vision_                    |
 |                   | _Readings_ | Byrne & Hilbert, "The Science of Color and Color Vision"                                                                  |
