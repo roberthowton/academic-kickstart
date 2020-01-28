@@ -50,7 +50,7 @@ The job of my lectures is to introduce you to the theories, concepts, and proble
 
 ### Class Discussion
 
-Philosophy is a _discursive_ enterprise: progress in understanding and evaluating philosophical ideas is most effectively made through interpersonal discussion, where you can test, correct, and improve your understanding of those ideas. To help you engage with philosophical ideas in this way, we will meet periodically for  general class discussion of the topics recently introduced in the lecture. Upon arrival at these meetings, students will complete a short **reading reflection** on the texts assigned for that meeting.
+Philosophy is a _discursive_ enterprise: progress in understanding and evaluating philosophical ideas is most effectively made through interpersonal discussion, where you can test, correct, and improve your understanding of those ideas. To help you engage with philosophical ideas in this way, we will meet periodically for  general class discussion of the topics recently introduced in the lecture. Upon arrival at these meetings, students will submit, in hard copy, **reading reflections** on the texts assigned for that meeting.
 
 ## Evaluation
 
@@ -120,7 +120,7 @@ Education is a pluralistic enterprise: there are several and often incompatible 
 The goal of this course is to promote and assess _your_ satisfaction of the above-stated course objectives. Cheating not plagiarism will not be tolerated. Students suspected of violating the University's policy on academic integrity, noted below, will be required to participate in the required procedural process as initiated by the instructor. A minimum sanction of a zero score for the quiz, exam, or paper will be imposed.
 
 {{% alert note %}}
-Be sure you are familiar with KU's complete policy on academic honesty, which is available in the [Student Code of Conduct](https://vpaa.ku.edu.tr/academic/student-code-of-conduct\#09)
+Be sure you are familiar with KU's complete policy on academic honesty, which is available in the [Student Code of Conduct](https://apdd.ku.edu.tr/en/academic-policies/student-code-of-conduct/)
 {{% /alert %}}
 
 ### Email Policy
@@ -128,10 +128,10 @@ Be sure you are familiar with KU's complete policy on academic honesty, which is
 Allow me two business days to respond to emails. Please do not email me with questions of philosophical substance---that is what lecture, discussion, and office hours are for---and please consult this syllabus before asking questions about course policy.
 
 
-### Important Links
+<!-- ### Important Links
 
 - [Student Rights \& Responsibilities](https://vpaa.ku.edu.tr/academic/student-code-of-conduct\#stdrights)
 
 - [Academic Grievance Procedure](https://vpaa.ku.edu.tr/academic/grievance-procedures/)
 
-- [Classroom Code of Conduct](https://vpaa.ku.edu.tr/academic/student-code-of-conduct/)
+- [Classroom Code of Conduct](https://vpaa.ku.edu.tr/academic/student-code-of-conduct/) -->

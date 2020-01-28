@@ -43,7 +43,7 @@ All dates given below are subject to change.
 |                   | _Readings_ | Johnson & Mullen, "Color in the Cortex"     |
 | 18 & 20 Feb       | **1.3**    | _Color Perception in Nonhuman Animals_      |
 |                   |            | Matthen, "Novel Colours in Animal Perception"                                                                    |
-|                   |            | Brown, "Color Manipulation and Comparative Colour"                                                                        |
+|                   |            | Brown, "Colour Manipulation and Comparative Colour"                                                                        |
 |                   | **Unit 2** | **Color Irrealism & Subjectivism**          |
 | 25 & 27 Feb       | **2.1**    | _An Error Theory of Color Experience_       |
 |                   | _Readings_ | Boghossian & Velleman, "Colour as a Secondary Quality"                                                             |
