@@ -29,8 +29,8 @@ linktitle = "Basic Information"
 | <span>                |                                                                                           |
 |------------------     | ------------------------------------------------------------------------------------------|
 | **Instructor**        | [Robert Howton <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                 |
-| _Office Hours_        | _TBA_, SOS 156                                                                  |
+| _Office Hours_        | TuTh 15:00-15:45, SOS 156                                                                  |
 | **Lectures**          | TuTh 11:30--12:45, CASE 136                |
 | **Course Website**    | [Blackboard](https://ku.blackboard.com/)                                                  |
 | **Teaching Assistant**| [Vedat Demirbaş <i class="far fa-envelope"></i>](mailto:vdemirbas19@ku.edu.tr)                   |
-| _TA Office Hours_     | _TBA_      |
+| _TA Office Hours_     | TuTh 16:00-17:00, SOS Z33      |
