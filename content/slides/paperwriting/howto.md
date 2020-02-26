@@ -1,6 +1,6 @@
 ---
 title: How to Write a Philosophy Paper
-summary: An introduction to academic writing for students of PHIL 217.
+summary: An introduction to academic philosophical writing for students of PHIL 217.
 authors: []
 tags: []
 categories: []
@@ -54,7 +54,7 @@ A successful philosophy paper does two things:
 <section>
 <h4> Exercise: What theses address the TP1 prompt? </h4>
 
-What does Sextus Empiricus mean when he says that "true", or Pyrrhonian, skeptics "hold no beliefs"? In your view, is it possible to live without holding any beliefs?
+> What is the objection Elisabeth is raising for Cartesian dualism, and how does Descartes respond to it? Is Elisabeth’s objection successful? Why, or why not?
 
 </section>
 
@@ -141,7 +141,7 @@ Provides extremely brief restatement of thesis and argument for it; convinces th
 <section>
 <h4>Exercise: Construct an outline for the TP1 thesis you've chosen.</h4>
 
-(Hints: If you're arguing that Sextus' argument is successful, why is the most convincing argument against his conclusion incorrect? If you're arguing that his argument is unsuccessful, where does the argument go wrong?)
+(Hints: If you're arguing that Descartes' response is successful, why is the most convincing argument against his conclusion incorrect? If you're arguing that his argument is unsuccessful, where does the argument go wrong?)
 
 </section>
 
@@ -153,7 +153,7 @@ Provides extremely brief restatement of thesis and argument for it; convinces th
 
 <section>
 
-(Hint: Ideally, the most nested items in each "stem" of your outline will correspond to a single paragraph.)
+(Hint: Ideally, the most nested items in each "branch" of your outline will correspond to a single paragraph.)
 
 </section>
 
@@ -183,15 +183,15 @@ Take an argumentative passage, identify the premises and conclusion, and restate
 </section>
 
 <section>
-<h5>Sample Passage 1: Skeptical Tranquility (PH I.29--30)</h5>
+<h5>Sample Passage 1: The Cartesian Circle (AT 214)</h5>
 
-<q>We do not, however, take Skeptics to be undisturbed in every way---we say that they are disturbed by things which are forced upon them; for we agree that at times they shiver and are thirsty and have other feelings of this kind. But in these cases ordinary people are afflicted by two sets of circumstances: by the feelings themselves, and no less by believing that these circumstances are bad by nature. Skeptics, who shed the additional opinion that each of these things is bad in its nature, come off more moderately even in these cases.</q>
+<q>My only remaining concern is whether the author does not commit a vicious circle when he says that we have no other basis on which to establish that what we clearly and distinctly perceive is true, than that God exists. But we can be certain that God exists only because we clearly and evidently perceive this fact. Therefore, before we are certain that God exists, we ought to be certain that whatever we clearly and evidently perceive is true.</q>
 </section>
 
 <section>
-<h5>Sample Passage 2: Why Democritus is Not a Skeptic</h5>
+<h5>Sample Passage 2: Malebranche on the one true cause</h5>
 
-<q>But the Skeptics and the Democriteans use the phrase 'No more' in different senses. The latter assign it the sense that neither is the case, we the sense that we do not know whether some apparent thing is both or neither. Hence even in this respect we differ. But the clearest distinction is made when Democritus says 'In verity there are atoms and void.' For by 'In verity' he means 'In truth'---and I think it is superfluous to remark that he differs from us in saying that atoms and void in truth subsist, even if he does begin from the anomaly in what is apparent.</q>
+<q>The motive force of bodies is therefore not in the bodies that are moved, for this motive force is nothing other than the will of God. Thus bodies have no action; and when a moving ball collides with and moves another, it communicates to it nothing of its own, for it does not itself have the force it communicates. However, a ball is the natural cause of the motion it communicates. A natural cause is therefore not a real and true but only an occasional cause, one that determines the Author of nature to act in such and such a manner in such and such a situation. (213)</q>
 
 </section>
 
