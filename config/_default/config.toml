@@ -13,7 +13,7 @@ baseurl = "https://www.roberthowton.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020 Robert Howton"
+copyright = "&copy; {year} Robert Howton"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
