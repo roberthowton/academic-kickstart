@@ -1,10 +1,17 @@
-+++
-title = "How to Write a Philosophy Paper"
-
-[slides]
-# Choose a theme from https://github.com/hakimel/reveal.js#theming
-theme = "sky"
-+++
+---
+title: How to Write a Philosophy Paper
+summary: An introduction to academic writing for students of PHIL 217.
+authors: []
+tags: []
+categories: []
+date: "2019-02-05T00:00:00Z"
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
+---
 
 # How to Write a Philosophy Paper
 
