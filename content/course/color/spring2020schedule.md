@@ -1,5 +1,5 @@
 +++
-title = "Spring 2020 Schedule"
+title = "Spring 2020 Schedule (UPDATED)"
 
 date = 2019-01-22T14:16:58+00:00
 
@@ -8,7 +8,7 @@ toc = true
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Schedule"
+linktitle = "Schedule (UPDATED)"
 [menu.color]
   parent = "Spring 2020"
   weight = 2
@@ -25,7 +25,7 @@ All dates given below are subject to change.
 |-----------------|---------------------------------|
 | 6 Feb           | Presentation Sign-Up Deadline   |
 | 27 Feb          | Paper 1 Topics Posted           |
-| 19 Mar          | Paper 1 Due                     |
+| 9 Apr           | Paper 1 Due                     |
 | 16 Apr          | Paper 2 Topics Posted           |
 | 7 May           | Paper 2/Final Paper Due         |
 
@@ -51,19 +51,20 @@ All dates given below are subject to change.
 |                   | _Readings_ | Johnston, "How to Speak of the Colors"      |
 | 10 & 12 Mar       | **2.3**    | _Critiques of Dispositionalism_             |
 |                   | _Readings_ | Byrne & Hilbert, "Are Colors Secondary Qualities?"                                                                    |
-| 17 & 19 Mar       | **2.4**    | _"Realism Enough": Color Relationalism_     |
+| 16--27 Mar        |            | _Classes Cancelled Due to COVID-19_         |
+| 2 Mar        | **2.4**    | _"Realism Enough": Color Relationalism_     |
 |                   | _Readings_ | Chirimuuta & Kingdom, "The Uses of Colour Vision"                                                                        |
-|                   |            | Gupta, "M. Chirimuuta’s Adverbialism about Color"                                                                         |
+| 9 Apr         | **2.5**    | _Color Relationalism Cont'd_               |
+|                   | _Readings_ | Gupta, "M. Chirimuuta’s Adverbialism about Color"                                                                         |
 |                   | **Unit 3** | **Color Objectivism**                       |
-| 24 & 26 Mar       | **3.1**    | _Colors as Physical Properties_             |
+| 16 Apr       | **3.1**    | _Colors as Physical Properties_             |
 |                   | _Readings_ | Byrne & Hilbert, "Objectivist Reductionism" |
-|                   |            | Allen, "Colour Physicalism, Naïve Realism, and the Argument from Structure"                                               |
-| 31 Mar & 2 Apr    | **3.2**    | _Primitivism: the "Simple View" of Color_   |
-|                   | _Readings_ | Campbell, Manipulating Colour: Pounding an Almond"                                                                        |
-|                   |            | Gert, "An Unmysterious Color Primitivism"   |
-| 14 & 16 Apr       | **3.3**    | _Conclusions: Color Ontology and the Philosophy of Mind_                                                            |
+|                   | **3.2**    | _Colors as Physical Properties, Cont'd_     |
+| 23 Apr       | _Readings_ | Allen, "Colour Physicalism, Naïve Realism, and the Argument from Structure"                                               |
+| 30 Apr       | **3.3**    | _Primitivism: the "Simple View" of Color_   |
+|                   | _Readings_ | Campbell, "Manipulating Colour: Pounding an Almond"                                                                        |
+| 7 May         | **3.4**    | _Primitivism Cont'd_                        |
+|                   | _Readings_ | Gert, "An Unmysterious Color Primitivism"   |
+|                   | **Unit 4** | **Conclusions**                             |
+| 14 May       | **4.1**    | _Color Ontology and the Philosophy of Mind_                                                                          |
 |                   | _Readings_ | Byrne, "Color and the Mind-Body Problem"    |
-|                   | **Unit 4** | **Topic _TBD_**                             |
-| 21 & 23 Apr       | | _TBD_ |
-| 28 & 30 Apr       | | _TBD_ |
-| 5 & 7 May         | | _TBD_ |

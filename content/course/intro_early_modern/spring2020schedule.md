@@ -1,5 +1,5 @@
 +++
-title = "Spring 2020 Schedule"
+title = "Spring 2020 Schedule (UPDATED)"
 
 date = 2019-01-22T14:16:58+00:00
 
@@ -8,7 +8,7 @@ toc = true
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Schedule"
+linktitle = "Schedule (UPDATED)"
 [menu.intro_early_modern]
   parent = "Spring 2020"
   weight = 2
@@ -34,12 +34,12 @@ All dates given below are subject to change.
 
 | <span>          |                           |
 |-----------------|---------------------------|
-| 20 Feb     | Term Paper 1 Posted       |
-| 5 Mar         | Term Paper 1 Due          |
-| 12 Mar        | Term Test 1               |
-| 26 Mar         | Term Paper 2 Posted       |
-| 14 Apr        | Term Paper 2 Due          |
-| 7 May          | Term Test 2               |
+| 20 Feb          | Term Paper 1 Posted       |
+| 5 Mar           | Term Paper 1 Due          |
+| 12 Mar          | Term Test 1               |
+| 2 Apr           | Term Paper 2 Posted       |
+| 17 Apr          | Term Paper 2 Due          |
+| 21 May          | Term Test 2               |
 
 
 ## Schedule of Topics \& Readings
@@ -75,21 +75,22 @@ All dates given below are subject to change.
 | | <i class="fa fa-book-open"></i> Mary Shepherd, Selections from _Essays_ |
 | 10 Mar        | Unit 2 Discussion |
 | 12 Mar        | **Term Test 1** |
+| 16--27 Mar    | _Classes cancelled due to COVID-19_                          |
 | **Unit 3**      | **Epistemology after Descartes: Rationalism & Empiricism** |
-| 17 & 19 Mar   | **3.1** Locke's Critique of Innatism  |
+| 31 Mar & 2 Apr   | **3.1** Locke's Critique of Innatism  |
 | | <i class="fa fa-book-open"></i> John Locke, _Essay_ I.i, I.ii.1--8, 15--16, 22  |
-| | <i class="fa fa-book-open"></i> G. W. Leibniz, Selections from Preface to the _New Essays_  |
-| 24 & 26 Mar    | **3.2** Locke's Empiricism |
+| | <i class="fa fa-book-open"></i> G. W. Leibniz, Selections from Preface to the _New Essays_
+| 7 & 9 April    | **3.2** Locke's Empiricism |
 | | <i class="fa fa-book-open"></i> John Locke, _Essay_ II.i.1--9, II.ii, II.viii.7--26, II.xii, II.xxiii.1--4  |
-| 31 Mar & 2 Apr       | **3.3** Hume's Skeptical Empiricism |
+| 14 & 16 Apr    | **3.3** Hume's Skeptical Empiricism |
 | | <i class="fa fa-book-open"></i> Hume, _Enquiry_ Sects. II--V  |
-| 14 Apr    | Unit 3 Discussion |
+| 21 Apr    | Unit 3 Discussion |
 | **Unit 4**      | **Rationalism After Descartes: Kant's Transcendental Philosophy** |
-| 16 & 21 Apr | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
+| 28 & 30 Apr | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
 | | <i class="fa fa-book-open"></i> _Prolegomena to any Future Metaphysics_, Preface & Preamble  |
-| 23 & 28 Apr      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
+| 5 & 7 May      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 6--23, 27--38  |
-| 30 Apr | **4.3** Kant's Prolegomena III: A Science of Metaphysics? |
+| 12 May | **4.3** Kant's Prolegomena III: A Science of Metaphysics? |
 | | <i class="fa fa-book-open"></i> _Prolegomena to Any Future Metaphysics_, Sects. 40--44, Scholium: Solution to the General Question of the Prolegomena, "How is metaphysics possible as a science?"  |
-| 5 May  | Unit 4 Discussion |
-| 7 May | **Term Test 2**   |
+| 14 May  | Unit 4 Discussion |
+| 21 May   | **Term Test 2 (Take Home)**   |

@@ -46,13 +46,25 @@ There are two basic components of this course, **lectures** and **class discussi
 
 ### Lectures
 
+{{% alert note %}}
+UPDATE: **Lectures** will be prerecorded and posted on Blackboard along with slideshows and slide handouts on Sunday evening; see Spring 2020 Schedule.
+{{% /alert %}}
+
 The job of my lectures is to introduce you to the theories, concepts, and problems that make up the content of the course. These lectures will be accompanied by slide-show presentations, which I will share with you to use outside of lecture as a guide to reading the assigned texts. Hence, **you will not be expected to come to the lecture having read the material assigned for that day**, but you will be expected to have read the material prior to class discussion.
 
 ### Class Discussion
 
+{{% alert note %}}
+UPDATE: Completed **Reading Reflections** should be submitted via Turnitin on Blackboard (by clicking the link in the Reading Reflections folder) by 11:30 on the assigned due date; _no late assignments will be accepted_. At 11:30 on that day Vedat will host a meeting (in the course Meeting Room, via Google Meet) to discuss answers to the questions.
+{{% /alert %}}
+
 Philosophy is a _discursive_ enterprise: progress in understanding and evaluating philosophical ideas is most effectively made through interpersonal discussion, where you can test, correct, and improve your understanding of those ideas. To help you engage with philosophical ideas in this way, we will meet periodically for  general class discussion of the topics recently introduced in the lecture. Upon arrival at these meetings, students will submit, in hard copy, **reading reflections** on the texts assigned for that meeting.
 
 ## Evaluation
+
+{{% alert note %}}
+UPDATE: **Participation** grade will consist solely of Reading Reflection grades. Term Test 2 will be take-home; stay tuned for details.
+{{% /alert %}}
 
 Students will be expected to write two **term tests** and two **term papers**, as well as satisfy requirements for satisfactory **participation** in lectures and discussion meetings. With the exception of University excused absences, which must be supported by official documentation, students are expected to attend all other lectures and discussion meetings.
 
@@ -100,7 +112,7 @@ Final grades will be rounded up from the 2<sup>nd</sup> decimal place; no except
 
 Most of the readings for this course are collected in:
 
-- Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 2<sup>nd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
+1. Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 2<sup>nd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2009.
 2. Atherton, Margaret. _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett Pub. Co, 1994.
 
 Both are available at Pandora. Additional readings will be posted to Blackboard.

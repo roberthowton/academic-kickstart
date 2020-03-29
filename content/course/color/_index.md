@@ -40,19 +40,27 @@ If you keep up with the lectures and readings you will not be assigned anything 
 
 Students' success in meeting these course goals will be evaluated on the following bases:
 
+{{% alert note %}}
+UPDATES: **Reading responses** will now be due on Wednesdays at 23:59 and be submitted via Turnitin on Blackboard (by clicking the relevant link in the Reading Responses folder); **Lead questioners** are no longer _required_ to submit questions; points earned by previous lead questioners will be counted as bonus or replacement reading response grades; students who have not served as lead questioner but would like to earn bonus points are encouraged to submit questions (by 23:59 on the relevant Wednesday) up to two times.
+{{% /alert %}}
+
 - **Undergraduate students** will be expected to write **two short papers** designed to stimulate in-depth philosophical engagement with one of the major topics discussed in class.
 
-- **Graduate students** will be expected to write _either_ one **short paper** and a 12--15 page **final paper** _or_ a 20 page **final paper**. The final paper will address a substantive philosophical issue concerning the philosophy of perception. Topics and literature will be selected in consultation with me.
+<!-- - **Graduate students** will be expected to write _either_ one **short paper** and a 12--15 page **final paper** _or_ a 20 page **final paper**. The final paper will address a substantive philosophical issue concerning the philosophy of perception. Topics and literature will be selected in consultation with me. -->
 
-- Class participation will be evaluated on the basis of the student's answer to periodic **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.)
+- Class participation will be evaluated on the basis of the student's answer to **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.)
 
 - Finally, students will give at least one 10--15 minute **in-class presentation**. Presentation topics will be selected in consultation with me.
 
 ## Evaluation
 
+{{% alert note %}}
+UPDATES: **Presentation/participation** grade now calculated on the basis of reading response grades, which will account for 40% of total grade.
+{{% /alert %}}
+
 Final grades will be determined according to the following rubrics:
 
-### Undergraduate Students
+<!-- ### Undergraduate Students -->
 
 | **Assignment**  | **% of Final Grade**          |
 |-----------------|-------------------------------|
@@ -62,7 +70,7 @@ Final grades will be determined according to the following rubrics:
 | Participation   | 20%                           |
 | **Total**       | **100%**                      |
 
-### Graduate Students
+<!-- ### Graduate Students
 
 | **Assignment**  | **% of Final Grade (Option 1)** | **% of Final Grade (Option 2)** |
 |-----------------|------------------------------------------|------------------------------------------|
@@ -70,7 +78,7 @@ Final grades will be determined according to the following rubrics:
 | Final Paper     | 35%                                      | 60%                                      |
 | Presentation    | 20%                                      | 20%                                      |
 | Participation   | 20%                                      | 20%                                      |
-| **Total**       | **100%**                                 | **100%**                                 |
+| **Total**       | **100%**                                 | **100%**                                 | -->
 
 {{% alert note %}}
 You must complete _all_ assignments in order to pass the course. No extra assignments will be given.
