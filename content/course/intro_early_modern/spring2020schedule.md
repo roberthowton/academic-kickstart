@@ -85,7 +85,7 @@ All dates given below are subject to change.
 | 14 & 16 Apr    | **3.3** Hume's Skeptical Empiricism |
 | | <i class="fa fa-book-open"></i> Hume, _Enquiry_ Sects. II--V  |
 | 21 Apr    | Unit 3 Discussion |
-| **Unit 4**      | **Rationalism After Descartes: Kant's Transcendental Philosophy** |
+| **Unit 4**      | **Rationalism After Descartes: Kant's Critical Philosophy** |
 | 28 & 30 Apr | **4.1** Kant's _Prolegomena_ I: the Possibility of Metaphysics  |
 | | <i class="fa fa-book-open"></i> _Prolegomena to any Future Metaphysics_, Preface & Preamble  |
 | 5 & 7 May      | **4.2** Kant's _Prolegomena_ II: Pure Mathematics & Pure Natural Science |
