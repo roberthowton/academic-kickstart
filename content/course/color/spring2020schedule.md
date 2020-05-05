@@ -21,13 +21,13 @@ All dates given below are subject to change.
 
 ## Important Dates
 
-| <span>          |                                 |
-|-----------------|---------------------------------|
-| 6 Feb           | Presentation Sign-Up Deadline   |
-| 27 Feb          | Paper 1 Topics Posted           |
-| 9 Apr           | Paper 1 Due                     |
-| 16 Apr          | Paper 2 Topics Posted           |
-| 7 May           | Paper 2/Final Paper Due         |
+| <span> |                               |
+|--------|-------------------------------|
+| 6 Feb  | Presentation Sign-Up Deadline |
+| 27 Feb | Paper 1 Topics Posted         |
+| 9 Apr  | Paper 1 Due                   |
+| 7 May  | Paper 2 Topics Posted         |
+| 28 May | Paper 2/Final Paper Due       |
 
 ## Schedule of Topics & Readings
 
