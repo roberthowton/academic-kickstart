@@ -19,6 +19,11 @@ layout = "docs"
 
 ### Koç University
 
+#### Spring 2020
+
+- PHIL 217: Modern Philosophy
+- PHIL 451/551: Philosophy of Perception: Color and Color Experience
+
 #### Fall 2019
 
 - PHIL 453: Mind & Reality in the Ancient World: the Problem of the Criterion

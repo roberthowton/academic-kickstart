@@ -202,6 +202,13 @@ div.alert-note > div:first-child::before {
   content: "\f0a4";
 }
 
+.dark div.alert-note > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #ffdbdc;
+  content: "\f0a4";
+}
+
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
@@ -220,14 +227,35 @@ div.alert-warning > div:first-child::before {
   padding: 23px 10px 21px 10px;
 }
 
+.dark .alert-note {
+  color: #ffdbdc;
+  background-color: #23252f;
+  border-top: 2px solid #ffdbdc;
+  border-radius: 0px; /*undo rounded corners*/
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  padding: 23px 10px 21px 10px;
+}
+
 div.alert > div {
   font-size: 0.85rem;
 }
 
-
 div.alert.alert-warning {
   color: #ffdbdc;
   background-color: #ffffff;
+  border-top: 2px solid #ffdbdc;
+  border-radius: 0px; /*undo rounded corners*/
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  padding: 23px 10px 21px 10px;
+}
+
+.dark div.alert.alert-warning {
+  color: #ffdbdc;
+  background-color: #23252f;
   border-top: 2px solid #ffdbdc;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
@@ -363,7 +391,8 @@ iframe {
 .dark a:active,
 .dark a:focus,
 .dark a:hover {
-	color: #ffffff;
+	/* color: #ffffff; */
+  color: #ffdbdc;
 }
 
 .dark .navbar-nav {

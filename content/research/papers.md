@@ -29,21 +29,29 @@ Status:
 Aristotle regards the senses as "discriminative" (_kritikê_), capacities not only to be affected by and perceive sensible qualities, but also to "discriminate and cognize something that is." Commentators since antiquity have tended to make two assumptions about the sensory capacity to discriminate: first that it is a capacity the senses have _essentially_, and second that its exercise results in a certain sort of _experience_, _e.g._ as of the difference between sensible qualities or their unity in a sensible body. I argue that both assumptions are mistaken. First, I argue that the capacity to discriminate is not essential but a scientifically knowable attribute of the senses, and that in _De Anima_ Aristotle offers two arguments explaining why the senses discriminate, one final causal and one formal causal. Second, I argue that the capacity these arguments attribute to the senses is epistemically far richer than commentators have supposed: the capacity to become aware of the mind-independent features of sensible bodies.
 
 Status:
-: Nearing completion, will be under review by 2/2020
+: In Progress
 
-### "Mixture and Motion": Aristotle on the Nature of Sensible Qualities
+<!-- ### "Mixture and Motion": Aristotle on the Nature of Sensible Qualities -->
 
-Aristotle identifies colors, sounds, flavors, and other sensible qualities with the physical properties that cause us to experience those qualities. However, unlike modern "physicalist" theories of sensible qualities, Aristotle does not draw a distinction between how we experience a quality and how that quality essentially is. I argue that this unique and puzzling feature of Aristotle's physicalism stems from a commitment to the view that a sensible quality is an abstract, mathematical form present in its actual as well as its potential instances, and I show that this view enables him to avoid some prominent objections to physicalist theories of sensible qualities.
+<!-- Aristotle identifies colors, sounds, flavors, and other sensible qualities with the physical properties that cause us to experience those qualities. However, unlike modern "physicalist" theories of sensible qualities, Aristotle does not draw a distinction between how we experience a quality and how that quality essentially is. I argue that this unique and puzzling feature of Aristotle's physicalism stems from a commitment to the view that a sensible quality is an abstract, mathematical form present in its actual as well as its potential instances, and I show that this view enables him to avoid some prominent objections to physicalist theories of sensible qualities. -->
+
+<!-- Status: -->
+<!-- : Promised to Editor, Preliminary Draft -->
+
+<!-- ### Sensible Qualities, Sensible Objects, and Aristotle's Realism -->
+
+<!-- Aristotle seems to think that objects for the most part have the colors, sounds, odors, and flavors we experience them as having, irrespective of whether they are experienced as having them. But for many commentators his commitment to this realist picture is importantly qualified. In their view, Aristotle concedes that colors, sounds, and other sensible qualities are _in actuality_ dependent on perceivers, so that a world without perceivers would be a world in which nothing is colored or sounding in the fullest sense. I argue that qualified realist views fail to distinguish two essentially distinct potentialities of material bodies, namely that which makes the body sensibly _qualified_ (colored or sounding) and that which makes it _sensible_ (visible or audible). Once we draw this distinction, we can see that Aristotle consistently---both in _De Anima_ and elsewhere---maintains an unqualified realism about sensible qualities, according to which a world without perceivers could be just as colorful, sonorous, and flavorful as ours is. -->
+
+<!-- Status: -->
+<!-- : Preliminary Draft -->
+
+
+### Revelation and Reduction in Aristotle's Science of Sensible Qualities
+
+Aristotle shares with modern physicalists the view that colors and other sensible qualities are identical to the properties that cause us to experience them. Unlike modern physicalists, however, Aristotle does not conclude from this that ordinary sense experience therefore cannot "reveal" to us what sensible qualities essentially are. In this paper, I propose to explain why. The reason, I contend, is not just that Aristotle's physics is radically different from our own. To be sure, Aristotle does not see the same structural disanalogies between the world as we experience it and as it is described by fundamental physics, but for him too the identification of sensible qualities with the causes of sense experience is reductive, an attempt to explain sensible qualities in terms of more general---and scientifically sophisticated---causal connections. Nevertheless, for Aristotle the value of sense perception consists in its ability to make perceivers aware of the physical properties responsible for those experiences. In defending this view, I argue, Aristotle articulates a conception of perceptual knowledge that is both interesting in its own right and provides a novel justification for the intuitive thesis that experience of sensible qualities reveals, in some way or other, what those qualities essentially are.
 
 Status:
-: Promised to Editor, Preliminary Draft
-
-### Sensible Qualities, Sensible Objects, and Aristotle's Realism
-
-Aristotle seems to think that objects for the most part have the colors, sounds, odors, and flavors we experience them as having, irrespective of whether they are experienced as having them. But for many commentators his commitment to this realist picture is importantly qualified. In their view, Aristotle concedes that colors, sounds, and other sensible qualities are _in actuality_ dependent on perceivers, so that a world without perceivers would be a world in which nothing is colored or sounding in the fullest sense. I argue that qualified realist views fail to distinguish two essentially distinct potentialities of material bodies, namely that which makes the body sensibly _qualified_ (colored or sounding) and that which makes it _sensible_ (visible or audible). Once we draw this distinction, we can see that Aristotle consistently---both in _De Anima_ and elsewhere---maintains an unqualified realism about sensible qualities, according to which a world without perceivers could be just as colorful, sonorous, and flavorful as ours is.
-
-Status:
-: Preliminary Draft
+: Promised to Editor, Draft Nearly Complete
 
 ## On Soul as a "Complex Activity" in Aristotle's Natural Science
 

@@ -46,7 +46,7 @@ While students often report having difficulty with the reading, they are
 just as often surprised at how much they've understood and how clearly
 they can relate these concepts and arguments in class discussion.
 
-I supplement this initial guided reading with a number of classroom
+I supplement this initial guided reading with a variety of classroom
 activities designed to reinforce and amplify students' comprehension. In
 one activity, students take turns as "lead discussants" of pairs of
 readings arguing on either side of a debate. The readings may be
@@ -62,10 +62,12 @@ Students generally report a positive experience as a lead discussant,
 and they seem to me remarkably fluent in their ability to explain and
 defend often subtle philosophical positions. Another activity involves
 tasking pairs of students with producing "fair copies" of class
-meetings: polished transcripts of lectures and class discussion compiled
+meetings, polished transcripts of lectures and class discussion compiled
 from the students' notes and corrected by me. The result is that
 students construct their own lecture notes as guides for reading and
 study.
+
+Similar aims guide the design of my online and hybrid courses, in which I employ asynchronous methods to guide independent reading and synchronous methods to reinforce comprehension of main ideas of the text. Each unit of the course begins with a prerecorded video lecture introducing students to the topic and providing guides for engaging with the texts, with participation and basic comprehension assessed on the basis of short, multiple-choice quizzes integrated into the lecture. The students are asked to watch the lecture and begin reading the texts in advance of live discussion meetings with me and their peers. In advanced courses, the discussions are structured around student responses to reading questions submitted the day before and graded by me, as well as student presentations of secondary literature. Meetings in introductory courses are more variable in their structure, incorporating discussion of student questions, structured debates, and group activities. In future hybrid courses, I intend also to experiment with scheduling student activities and assessment dynamically according to whether the student is participating online or in-person on the relevant week.
 
 My policies for student assessment likewise emphasize fruitful struggle
 with the assigned texts. An important evaluative tool in all of my
@@ -95,9 +97,9 @@ to their learning experience. I am also encouraged by consistently
 positive feedback on my performance in the classroom: students often
 remark on my enthusiasm as a lecturer, my willingness to answer
 questions both inside and outside of the classroom, and my willingness
-to discuss and comment on drafts of their assignments. In Spring 2019
-the positive student feedback on my evaluations exceeded all College and
-University benchmarks, for which reason I was recognized by my College
+to discuss and comment on drafts of their assignments. Most recently, in Spring 2020
+the positive student feedback on my evaluations exceeded all CSSH and
+University benchmarks, and in Spring 2019 I was recognized by CSSH
 for teaching excellence.
 
 Aristotle claimed that teachers think they have achieved their goal when
@@ -105,4 +107,4 @@ they observe their students actually doing what they have been taught.
 Rightly so. In my view the aim and chief pleasure of teaching philosophy
 is to observe students doing what they could not do before: reading,
 with increased understanding and appreciation, some of the great works
-of our discipline.
+of the discipline.
