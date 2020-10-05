@@ -72,10 +72,9 @@ This course will be taught remotely this semester. In accordance with [Universit
 Class time will be divided between **lecture meetings**, which will take place Tuesdays and Thursdays, and **discussion meetings**, which will take place on Fridays.
 
 - The purpose of **lecture meetings** is to introduce course material and prepare you for reading the texts assigned for that Unit. **You should come to the first lecture meeting of the week having engaged with the preparatory material; after the first meeting, you'll be in a position to start with the assigned reading.**
-- The purpose of **discussion meetings** is to give you the opportunity to discuss ideas and problems arising from the lecture and assigned reading with a smaller group of your peers. Discussions will be led by one of the course TAs. **You should come having done the assigned readings and, ideally, with questions for discussion. Attendance at these meetings is mandatory and enforced by weekly quizzes.** 
+- The purpose of **discussion meetings** is to give you the opportunity to discuss ideas and problems arising from the lecture and assignments with a smaller group of your peers. Discussions will be led by one of the course TAs. **You should come having completed the readings and other assignments due that week. Ideally, you will also come with questions for discussion. Attendance at these meetings is mandatory and enforced by weekly quizzes.** 
 
-<!-- {{% alert note %}} -->
-<!-- Philosophy is, and has always been, a _discursive_ enterprise. Without testing your understanding of the ideas and theories you're exposed to in class through questions and thoughtful discussion with your peers,   -->
+<!-- {{% alert note %}} Philosophy is, and has always been, a _discursive_ enterprise. Without testing your understanding of the ideas and theories you're exposed to in class through questions and thoughtful discussion with your peers, -->
 <!-- {{% /alert %}} -->
 
 ## Course Components
@@ -84,18 +83,22 @@ Each student's success in meeting the course objects and learning outcomes will 
 
 - Students will be expected to earn a [Master of Illusion Certificate](https://quiz.illusionsindex.org/) from the University of Glasgow.
 - Additionally, students will be expected to write **three short papers** responding to questions about assigned readings and other course material. Students unsatisfied with their initial score on a short paper assignment may write a **second draft** addressing problems identified by instructor/TA comments on the first draft; the student's final grade on that short paper assignment will then be the average of the first and second draft grades.
-- Additionally, students will assessed for **participation** in two ways:
-  1. **Weekly quizzes** covering the readings assigned for that week will be administered during discussion meetings.
-  2. After every Unit, students will complete a **self-assessment** for each Unit. See the section on self-assessment below for more information.
+- Additionally, students will assessed for **attendance** and **participation**:
+  - Attendance in discussion meetings will be assessed by **weekly quizzes** administered during discussion meetings, which will the readings assigned for that week.
+  - Participation will be assessed by means of **self-assessments** prepared by the student after each Unit. See below for more information.
 
 
 <!-- - Students will be expected to write **two term tests** covering the major ideas presented in class, as well as **two term papers** responding in-depth to questions prompted by course readings. -->
 <!-- - Additionally, student attendance and class participation will be assessed on the basis of **reading response questions** given out on the third meeting of each unit, which will be devoted to class discussion and group activities. Students may opt out of reading responses with no penalty only _once_; with the exception of University excused absences, which must be supported by official documentation, students must complete _all_ other reading responses and attend all other class meetings. -->
 <!-- - Finally, on discussion days students will be assessed for their **participation** in class discussion and group activities. -->
 
-## Self-Assessment
+### Self-Assessment
 
-Participation is crucial for grasping the content and developing the skills at which this course aims. However, there are more ways to participate in a course than just verbal, in-class participation, which can also be exclusionary, imprecise to grade, and insensitive to students whose circumstances at home are not optimized for remote learning. Rather than traditional participation, we will use self-assessments to reflect on how we have engage with the course in general, or supported others in their engagement, and how we might improve our efforts. To this end, I will be assigning self-assessment quizzes (to be completed on Google forms) at end of every Unit. You are required to fill out a self-assessment for every unit. 
+Participation is crucial for grasping the content and developing the skills at which this course aims. However, there are more ways to participate in a course than just verbal, in-class participation, which can also be exclusionary, imprecise to grade, and insensitive to students whose circumstances at home are not optimized for remote learning. Rather than traditional participation, we will use self-assessments to reflect on how we have engage with the course in general, or supported others in their engagement, and how we might improve our efforts. To this end, I will be assigning self-assessment quizzes (on Blackboard) at end of every Unit.  
+
+{{% alert note %}}
+You are required to fill out a self-assessment for every unit.
+{{% /alert %}}
 
 I intend to be as inclusive as possible in assessing your efforts to engage with the course. Participation and engagement in the course might include, but are certainly _not limited to_: 
 - doing course readings or accessing preparatory material; 
@@ -104,7 +107,7 @@ I intend to be as inclusive as possible in assessing your efforts to engage with
 - engaging with the contributions of others in a charitable and respectful way; 
 - discussing course material (in person or online) with others outside of class, including with those not enrolled in this course; 
 - starting or contributing to discussions on blogs or social media; 
-- seeking out additional resources on course topics, such as articles, books, podcasts, or lectures; 
+- seeking out *additional* resources on course topics, such as articles, books, podcasts, or lectures; 
 - taking detailed notes on course readings; sharing your academic strategies, tips, and habits with others;
 - creating and sharing artistic media relating to course content, such as drawings, paintings, poetry, music, comics, videos, podcasts, or short stories; 
 - visiting a museum or seeking out artistic works in other ways and sharing how these works relate to course topics; 
@@ -116,7 +119,10 @@ Our ability to credit you with these modes of engagement depends on your ability
 
 ## Evaluation
 
-Final grades will be determined according to the following rubrics:
+Final grades will be determined according to the following critera:
+
+### Final Grade Rubric 
+
 
 | **Assignment**                 | **% of Final Grade** |
 |--------------------------------|----------------------|
@@ -130,7 +136,7 @@ Final grades will be determined according to the following rubrics:
 <!-- You must complete _all_ assignments in order to pass the course! -->
 <!-- {{% /alert %}} -->
 
-#### Grading Scale
+### Grading Scale
 
 | **Score** | **Grade** | **Performance**                                                     |
 |-----------|-----------|---------------------------------------------------------------------|
@@ -154,11 +160,11 @@ Final grades will be determined according to the following rubrics:
 
 ### Required Texts
 
-You are not required to purchase any text for this course. All required readings will be posted to Blackboard and shared via the Google Chat room.
+You are not required to purchase any text for this course. All required readings will be posted to Blackboard and shared via the Google Chat room (see below).
 
 ### Additional Materials
 
-Students looking for additional study materials are encouraged to consult the [Stanford Encyclopedia of Philosophy](plato.stanford.edu).
+Students looking for additional study materials are encouraged to consult the [Stanford Encyclopedia of Philosophy <i class="fas fa-external-link-alt"></i>](https://plato.stanford.edu).
 
 ## Course Policies
 
@@ -172,7 +178,7 @@ Office hours and appointments will also be held via Google Chat.
 
 ### Email Policy
 
-Feel free to ask questions to me, your TA, or your classmates on the class team, in public or private. If you must email me, please allow me two business days to respond. Please do not email me with questions of philosophical substance---that is what lecture, discussion, and office hours are for---and please consult this syllabus before asking questions about course policy.
+Feel free to ask questions to me, your TA, or your classmates in the class chat, either in public or in private. If you must email me, please allow me two business days to respond. Please do not email me with questions of philosophical substance---that is what lecture, discussion, and office hours are for---and please consult this syllabus before asking questions about course policy.
 
 ### Late Submission Policy
 
@@ -180,20 +186,20 @@ Late submissions will be penalized 1/3 of a letter grade (e.g., from A to A-) pe
 
 ### Disabilities and Different Styles of Learning
 
-Education is a pluralistic enterprise: there are several and often incompatible styles of learning. If you believe there is an alternative approach to this material that would better suit your style of learning, do not hesitate to bring it up with me. If you have a disability for which you are or may be requesting accommodation, you are encouraged to contact both me and the Office of Disability Services at [0 (212) 338 10 42](tel:+90(212)3381042) as early as possible in the term. ODS will verify your disability and determine reasonable accommodations for this course.
+Education is a pluralistic enterprise: there are several and often incompatible styles of learning. If you believe there is an alternative approach to this material that would better suit your style of learning, do not hesitate to bring it up with me. If you have a disability for which you are or may be requesting accommodation, you are encouraged to contact both me and the Office of Disability Services at [0 (212) 338 10 42 <i class="fas fa-phone"></i>](tel:+90(212)3381042) as early as possible in the term. ODS will verify your disability and determine reasonable accommodations for this course.
 
 ### Academic Honesty
 
 The goal of this course is to promote and assess _your_ satisfaction of the above-stated course objectives. Cheating not plagiarism will not be tolerated. Students suspected of violating the University's policy on academic integrity, noted below, will be required to participate in the required procedural process as initiated by the instructor. **A minimum sanction of a zero score for the quiz, exam, or paper will be imposed.**
 
 {{% alert note %}}
-Be sure you are familiar with KU's complete policy on academic honesty, which is available in the [Student Code of Conduct](https://apdd.ku.edu.tr/en/academic-policies/student-code-of-conduct/)
+Be sure you are familiar with KU's complete policy on academic honesty, which is available in the [Student Code of Conduct <i class="fas fa-external-link-alt"></i>](https://apdd.ku.edu.tr/en/academic-policies/student-code-of-conduct/)
 {{% /alert %}}
 
 ### Important Links
 
-- [Student Rights & Responsibilities](https://apdd.ku.edu.tr/en/academic-policies/student-code-of-conduct/)
+- [Student Rights & Responsibilities <i class="fas fa-external-link-alt"></i>](https://apdd.ku.edu.tr/en/academic-policies/student-code-of-conduct/)
 
-- [Academic Grievance Procedure](https://apdd.ku.edu.tr/en/academic-policies/academic-grievance-procedure/)
+- [Academic Grievance Procedure <i class="fas fa-external-link-alt"></i>](https://apdd.ku.edu.tr/en/academic-policies/academic-grievance-procedure/)
 
-- [Classroom Code of Conduct](https://vpaa.ku.edu.tr/en/classroom-code-of-conduct/)
+- [Classroom Code of Conduct <i class="fas fa-external-link-alt"></i>](https://vpaa.ku.edu.tr/en/classroom-code-of-conduct/)
