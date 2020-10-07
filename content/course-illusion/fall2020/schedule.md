@@ -53,7 +53,7 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 |-------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6--9 Oct.   | **Unit 0**    | **Introduction & Course Basics**                                                                                                                                                 |
 |             |               | <i class="fas fa-podcast"></i> [Hi-Phi Nation, "The Illusionist"](https://hiphination.org/season-3-episodes/s3-episode-9-the-illusionist-jun-8-2019/)                            |
-|             | **Unit 1**    | **Appearance & Reality"**                                                                                                                                                        |
+|             | **Unit 1**    | **Appearance & Reality**                                                                                                                                                         |
 | 13--16 Oct. | **1.1**       | _How Appearance & Reality Come Apart_                                                                                                                                            |
 |             |               | <i class="fa fa-book-open"></i> [Russell, "Appearance and Reality"](https://drive.google.com/file/d/1VNc0RjCq3G1AQ71FWnT_MASOr1YlZMIV/view?usp=sharing)                          |
 | 20--23 Oct. | **1.2**       | _Varieties of Illusion and Hallucination_                                                                                                                                        |

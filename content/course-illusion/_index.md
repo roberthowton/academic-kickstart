@@ -79,7 +79,7 @@ Class time will be divided between **lecture meetings**, which will take place T
 
 ## Course Components
 
-Each student's success in meeting the course objects and learning outcomes will be assessed on the following bases:
+Each student's success in meeting the course objectives and learning outcomes will be assessed on the following bases:
 
 - Students will be expected to earn a [Master of Illusion Certificate](https://quiz.illusionsindex.org/) from the University of Glasgow.
 - Additionally, students will be expected to write **three short papers** responding to questions about assigned readings and other course material. Students unsatisfied with their initial score on a short paper assignment may write a **second draft** addressing problems identified by instructor/TA comments on the first draft; the student's final grade on that short paper assignment will then be the average of the first and second draft grades.
@@ -110,7 +110,7 @@ I intend to be as inclusive as possible in assessing your efforts to engage with
 - seeking out *additional* resources on course topics, such as articles, books, podcasts, or lectures; 
 - taking detailed notes on course readings; sharing your academic strategies, tips, and habits with others;
 - creating and sharing artistic media relating to course content, such as drawings, paintings, poetry, music, comics, videos, podcasts, or short stories; 
-- visiting a museum or seeking out artistic works in other ways and sharing how these works relate to course topics; 
+- visiting a museum (virtually or in person) or seeking out artistic works in other ways and sharing how these works relate to course topics; 
 - reflecting either in writing or in discussion on the relation of course topics to recent news stories, opinion pieces,or magazine articles or to research, theories, or findings from other disciplines.
 
 {{% alert note %}}
@@ -119,7 +119,7 @@ Our ability to credit you with these modes of engagement depends on your ability
 
 ## Evaluation
 
-Final grades will be determined according to the following critera:
+Final grades will be determined according to the following criteria:
 
 ### Final Grade Rubric 
 
