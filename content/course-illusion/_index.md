@@ -170,11 +170,11 @@ Students looking for additional study materials are encouraged to consult the [S
 
 ### Announcements & Class Discussion
 
-We will use the Google Chat client for all announcements and class discussion. You will be added to the course room towards the end of the first week. 
+We will use the Google Chat client for all announcements and class discussion. You will be added to the course chat room towards the end of the first week.
 
 ### Office Hours & Appointments
 
-Office hours and appointments will also be held via Google Chat.
+Office hours and appointments will also be held [via Zoom <i class="fas fa-video"></i>](https://kocun.zoom.us/my/rhowton).
 
 ### Email Policy
 
