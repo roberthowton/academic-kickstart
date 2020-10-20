@@ -46,7 +46,8 @@ Subscribe to the calendar to stay up-to-date with assignments and meetings.
 ## Schedule of Topics & Readings
 
 {{% alert note %}}
-Topics and readings subject to change. All readings will be posted to Blackboard.
+(1) Topics and readings subject to change. (2) All readings will be posted to Blackboard.
+(3) To access readings, you must be signed into Google with your ku.edu.tr account.
 {{% /alert %}}
 
 | Date        | Unit          | Topic & Assigned Materials                                                                                                                                                       |
@@ -56,14 +57,15 @@ Topics and readings subject to change. All readings will be posted to Blackboard
 |             | **Unit 1**    | **Appearance & Reality**                                                                                                                                                         |
 | 13--16 Oct. | **1.1**       | _How Appearance & Reality Come Apart_                                                                                                                                            |
 |             |               | <i class="fa fa-book-open"></i> [Russell, "Appearance and Reality"](https://drive.google.com/file/d/1VNc0RjCq3G1AQ71FWnT_MASOr1YlZMIV/view?usp=sharing)                          |
-| 20--23 Oct. | **1.2**       | _Varieties of Illusion and Hallucination_                                                                                                                                        |
+| 20--23 Oct. | **1.2**       | _Varieties of Illusion_                                                                                                                                        |
 |             |               | <i class="fas fa-link"></i> [Illusions Index](https://www.illusionsindex.org/)                                                                                                   |
 | 27 Oct.     | **Interlude** | _**Academic Skills:** How to Make an Argument_                                                                                                                                   |
 |             |               | (Assignments _TBA_)                                                                                                                                                              |
-| 3--6 Nov.   | **1.3**       | _Is Veridical Experience Illusory?_                                                                                                                                              |
-|             |               | (Assignments _TBA_)                                                                                                                                                              |
+| 3--6 Nov.   | **1.3**       | _Hallucination & Consciousness_                                                                                         |
+|             |               | <i class="fas fa-link"></i> [Illusions Index](https://www.illusionsindex.org/)                                                                                                   |
+|             |               | <i class="fab fa-youtube"></i> [Anil Seth, "Your Brain Hallucinates Your Conscious Reality"](https://www.youtube.com/watch?v=lyu7v7nWzfo)                                                                                                             |
 |             | **Unit 2**    | **The Problem of Perception**                                                                                                                                                    |
-| 10--13 Nov. | **2.1**       | _The Arguments from Illusion and Hallucination_                                                                                                                                  |
+| 10--13 Nov. | **2.1**       | _The Arguments from Illusion & Hallucination_                                                                                                                                 |
 |             |               | <i class="fab fa-youtube"></i> [Wi-Phi, "The Argument from Illusion"](https://www.youtube.com/watch?v=bs2pTBkJCxQ&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=1)               |
 |             |               | <i class="fab fa-youtube"></i> [Wi-Phi, "The Argument from Hallucination"](https://www.youtube.com/watch?v=wrKAHhwSWtk&list=PLt_3pAooAtRIIp_vFYWkrgQ6oeDiVdw0F&index=2)          |
 | 17--20 Nov. | **2.2**       | _Representation & Illusion_                                                                                                                                                      |
