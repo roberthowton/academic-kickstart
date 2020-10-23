@@ -60,7 +60,6 @@ Subscribe to the calendar to stay up-to-date with assignments and meetings.
 | 20--23 Oct. | **1.2**       | _Varieties of Illusion_                                                                                                                                        |
 |             |               | <i class="fas fa-link"></i> [Illusions Index](https://www.illusionsindex.org/)                                                                                                   |
 | 27 Oct.     | **Interlude** | _**Academic Skills:** How to Make an Argument_                                                                                                                                   |
-|             |               | (Assignments _TBA_)                                                                                                                                                              |
 | 3--6 Nov.   | **1.3**       | _Hallucination & Consciousness_                                                                                         |
 |             |               | <i class="fas fa-link"></i> [Illusions Index](https://www.illusionsindex.org/)                                                                                                   |
 |             |               | <i class="fab fa-youtube"></i> [Anil Seth, "Your Brain Hallucinates Your Conscious Reality"](https://www.youtube.com/watch?v=lyu7v7nWzfo)                                                                                                             |
