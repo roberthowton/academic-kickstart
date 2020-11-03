@@ -13,7 +13,7 @@ weight: 13
 
 ### [Negative Afterimages](https://www.illusionsindex.org/ir/negative-afterimages)
 
-### [Positive Afterimages](https://www.illusionsindex.org/i/positive-afterimages)
+### [The Colour-Dove Illusion](https://www.illusionsindex.org/ir/colour-dove-illusion)
 
 ### [Aristotle's Illusion](https://www.illusionsindex.org/i/aristotle)
 
