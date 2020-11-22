@@ -67,7 +67,8 @@ from the students' notes and corrected by me. The result is that
 students construct their own lecture notes as guides for reading and
 study.
 
-Similar aims guide the design of my online and hybrid courses, in which I employ asynchronous methods to guide independent reading and synchronous methods to reinforce comprehension of main ideas of the text. Each unit of the course begins with a prerecorded video lecture introducing students to the topic and providing guides for engaging with the texts, with participation and basic comprehension assessed on the basis of short, multiple-choice quizzes integrated into the lecture. The students are asked to watch the lecture and begin reading the texts in advance of live discussion meetings with me and their peers. In advanced courses, the discussions are structured around student responses to reading questions submitted the day before and graded by me, as well as student presentations of secondary literature. Meetings in introductory courses are more variable in their structure, incorporating discussion of student questions, structured debates, and group activities. In future hybrid courses, I intend also to experiment with scheduling student activities and assessment dynamically according to whether the student is participating online or in-person on the relevant week.
+Similar aims guide the design of my online and hybrid courses, in which I employ asynchronous methods to guide independent reading and synchronous methods to reinforce comprehension of main ideas of the text. Each unit of the course begins with a prerecorded video lecture introducing students to the topic and providing guides for engaging with the texts, with participation and basic comprehension assessed on the basis of short, multiple-choice quizzes integrated into the lecture. The students are asked to watch the lecture and begin reading the texts in advance of live discussion meetings with me and their peers. In advanced courses, the discussions are structured around student responses to reading questions submitted the day before and graded by me, as well as student presentations of secondary literature. Meetings in introductory courses are more variable in their structure, incorporating discussion of student questions, structured debates, and group activities. 
+<!-- In future hybrid courses, I intend also to experiment with scheduling student activities and assessment dynamically according to whether the student is participating online or in-person on the relevant week. -->
 
 My policies for student assessment likewise emphasize fruitful struggle
 with the assigned texts. An important evaluative tool in all of my
@@ -98,9 +99,8 @@ positive feedback on my performance in the classroom: students often
 remark on my enthusiasm as a lecturer, my willingness to answer
 questions both inside and outside of the classroom, and my willingness
 to discuss and comment on drafts of their assignments. Most recently, in Spring 2020
-the positive student feedback on my evaluations exceeded all CSSH and
-University benchmarks, and in Spring 2019 I was recognized by CSSH
-for teaching excellence.
+the positive student feedback on my evaluations exceeded all College and
+University benchmarks, and in Spring 2019 I was recognized by the Koç University College of Social Sciences and Humanities for teaching excellence.
 
 Aristotle claimed that teachers think they have achieved their goal when
 they observe their students actually doing what they have been taught.

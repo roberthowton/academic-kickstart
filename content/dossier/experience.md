@@ -19,6 +19,10 @@ layout = "docs"
 
 ### Koç University
 
+#### Fall 2020
+
+- HUMS 132: Illusion: When Appearances Deceive
+
 #### Spring 2020
 
 - PHIL 217: Modern Philosophy

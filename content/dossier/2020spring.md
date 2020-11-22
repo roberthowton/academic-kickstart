@@ -11,7 +11,7 @@ layout = "docs"
 # Add menu entry to sidebar
 [menu.dossier]
   linktitle = "Spring 2020"
-  weight = 92
+  weight = 91
   parent = "Evaluations"
 +++
 

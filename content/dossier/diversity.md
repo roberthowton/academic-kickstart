@@ -22,7 +22,7 @@ the students share my linguistic or cultural upbringing) has given me
 experience with students from a wide variety of cultural, linguistic,
 and educational backgrounds and of different philosophical abilities. In
 my view, engaging with such a diversity of perspectives is one of the
-chief pleasures of teaching philosophy. But I also believe that a
+pleasures of teaching philosophy. But I also believe that a
 diverse student body places special responsibilities on a teacher of
 philosophy, who must be sensitive to the different needs of students as
 they approach philosophical texts, aware of the cultural presuppositions
@@ -42,7 +42,7 @@ and teaching syllabi for ancient, medieval, and modern philosophy. In
 the medieval and modern periods we are fortunate to have correspondence
 of some of those periods' major figures---including Abelard, Descartes,
 Leibniz, and Locke---with lesser-known women philosophers, including
-Héloïse, Elizabeth of Bohemia, and Damaris Masham. I think these
+Héloïse, Elizabeth of Bohemia, and Margaret Cavendish. I think these
 correspondence are valuable teaching tools and I make them a central
 feature of my introductory course on modern philosophy. The ancient
 period is more difficult, in particular since almost nothing survives
@@ -50,8 +50,8 @@ from women intellectuals of that period. However, in my teaching I try
 to stress the significance of medieval Arabic and North African
 philosophers (who are also worthy of study in their own right) on the
 transmission and interpretation of ancient philosophers, especially
-Aristotle, as well the important role that contemporary women
-philosophers and philosophers of color have played in advancing our
+Aristotle, as well the important role that women
+philosophers and philosophers of color have played in advancing current our
 understanding of ancient philosophical texts.
 
 I believe diversifying syllabi benefits students in at least two ways.
@@ -93,10 +93,10 @@ verbal testing by one-on-one discussion with me, take home reports, or
 other means. However, one form of evaluation I've insisted on is
 writing. In many cases, I think it is a disservice to students not to
 use a philosophy course as a vehicle for improving skills as important
-as prose composition. However, I also recognize that some students have
+as prose composition. Nevertheless, I also recognize that some students have
 greater educational deficits to overcome in their writing than others. I
 have various ways of helping these students improve their writing and
-succeed in my courses, including encourage them to seek help from me in
+succeed in my courses, including encouraging them to seek help from me in
 drafting papers, taking time to correct grammar in grading drafts, and
 (when necessary) exercising lenience in penalizing poor grammar to
 encourage students to express their philosophical ideas to the best of

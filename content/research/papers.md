@@ -11,7 +11,7 @@ layout = "docs"
 # Add menu entry to sidebar
 [menu.research]
   linktitle = "Papers"
-  weight = 2
+  weight = 1
   parent = "Research Statement"
 +++
 
@@ -23,6 +23,17 @@ In _Posterior Analytics_ 2.19, Aristotle argues that knowledge of the first prin
 
 Status:
 : Revise & Resubmit
+
+### Revelation and Reduction in Aristotle's Science of Sensible Qualities
+
+Aristotle's conception of color and other sensible qualities looks incongruous to modern readers, apparently embracing both the modern reductivist identification of these qualities to the physical causes of sense experience and the modern primitivist thesis that they essentially are how they are presented to us in the experiences they produce. Commentators, however, have struggled to understand how Aristotle manages to reconcile these claims within a single coherent theory. For some commentators, Aristotle regards sensible qualities as essentially characterized in terms of their psychological role as causes and manifest features of sense experience. For others, it is just the opposite: sensible qualities are defined rather by reference to perceiver-_independent_ physical properties. 
+
+I diagnose this impasse as a failure by commentators to appreciate the explanatory sophistication of Aristotle's theory. On the reading I defend, Aristotle approaches sensible qualities as a subject of _scientific_ inquiry, an inquiry that seeks to explain the necessary features of sensible qualities in terms of their essential nature. In the context of this science, the psychological role of sensible qualities is not part of their essential nature, but rather a demonstrable _consequence_ of what they are essentially: namely, properties productive of perceiver-independent changes in their environment. Central to this explanatory project is a reductive account of sensible qualities, but unlike modern reductive theories, it is one that leaves intact the primitivist idea that experience "reveals" their essential nature. This feature of Aristotle's theory has been overlooked by interpreters, but as I argue, it is fundamental to Aristotle's conception of the value of the senses in promoting the practical and cognitive ends that structure animal life.
+
+<!-- Aristotle shares with modern physicalists the view that colors and other sensible qualities are identical to the properties that cause us to experience them. Unlike modern physicalists, however, Aristotle does not conclude from this that ordinary sense experience therefore cannot "reveal" to us what sensible qualities essentially are. In this paper, I propose to explain why. The reason, I contend, is not just that Aristotle’s physics is radically different from our own. To be sure, Aristotle does not see the same structural disanalogies between the world as we experience it and as it is described by fundamental physics, but for him too the identification of sensible qualities with the causes of sense experience is reductive, an attempt to explain sensible qualities in terms of more general---and scientifically sophisticated---causal connections. Nevertheless, for Aristotle the value of sense perception consists in its ability to make perceivers aware of the physical properties responsible for those experiences. In defending this view, I argue, Aristotle articulates a conception of perceptual knowledge that is both interesting in its own right and provides a novel justification for the intuitive thesis that experience of sensible qualities reveals, in some way or other, what those qualities essentially are. -->
+
+Status:
+: Accepted by Editor, Revisions Pending; Draft Available Upon Request
 
 ### Aristotle on Why the Senses Discriminate
 
@@ -45,13 +56,6 @@ Status:
 <!-- Status: -->
 <!-- : Preliminary Draft -->
 
-
-### Revelation and Reduction in Aristotle's Science of Sensible Qualities
-
-Aristotle shares with modern physicalists the view that colors and other sensible qualities are identical to the properties that cause us to experience them. Unlike modern physicalists, however, Aristotle does not conclude from this that ordinary sense experience therefore cannot "reveal" to us what sensible qualities essentially are. In this paper, I propose to explain why. The reason, I contend, is not just that Aristotle's physics is radically different from our own. To be sure, Aristotle does not see the same structural disanalogies between the world as we experience it and as it is described by fundamental physics, but for him too the identification of sensible qualities with the causes of sense experience is reductive, an attempt to explain sensible qualities in terms of more general---and scientifically sophisticated---causal connections. Nevertheless, for Aristotle the value of sense perception consists in its ability to make perceivers aware of the physical properties responsible for those experiences. In defending this view, I argue, Aristotle articulates a conception of perceptual knowledge that is both interesting in its own right and provides a novel justification for the intuitive thesis that experience of sensible qualities reveals, in some way or other, what those qualities essentially are.
-
-Status:
-: Promised to Editor, Draft Nearly Complete
 
 ## On Soul as a "Complex Activity" in Aristotle's Natural Science
 
