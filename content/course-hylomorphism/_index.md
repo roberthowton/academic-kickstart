@@ -15,7 +15,7 @@ weight: 1
 
 ## Course Description
 
-Aristotle famously endorses _hylomorphism_, the thesis that "substances" are composites of form (_morphê, eidos_) and matter (_hulê_). Initially, Aristotle seems to have proposed a hylomorphic conception of substance to deal with certain challenges to the possibility of change, in particular _substantial_ change, in which there comes to be a human or a house from what was not one before. But the impact of this thesis on Aristotle's thought extends far beyond the resolution of these challenges, influencing most crucially his theory of being in _Metaphysics_ Z, his explanation of life in _De Anima_, and the whole of the biological theory he develops in the _Parts_ and _Generation of Animals_.
+Aristotle famously endorses _hylomorphism_, the thesis that "substances" are composites of form (_morphê_, _eidos_) and matter (_hulê_). Initially, Aristotle seems to have proposed a hylomorphic conception of substance to deal with certain challenges to the possibility of change, in particular _substantial_ change, in which there comes to be a human or a house from what was not one before. But the impact of this thesis on Aristotle's thought extends far beyond the resolution of these challenges, influencing most crucially his theory of being in _Metaphysics_ Z, his explanation of life in _De Anima_, and the whole of the biological theory he develops in the _Parts_ and _Generation of Animals_.
 
 This course will be an in-depth examination of Aristotle's hylomorphism, its theoretical motivations, and its philosophical difficulties. We will read widely from Aristotle's works in metaphysics and natural science, while drawing on both recent scholarly and neo-Aristotelian treatments of Aristotle's account of substance.
 
@@ -39,13 +39,18 @@ If you keep up with the lectures and readings you will not be assigned anything 
 
 Students' success in meeting these course goals will be evaluated on the following bases:
 
-- **Undergraduate students** will be expected to write **two passage commentaries**. The commentaries are designed to stimulate in-depth historical and philosophical engagement with one of the major passages discussed in class and relevant secondary literature.
+- **Undergraduate students** will be expected to write **two passage commentaries** of roughly 7 pages each. The commentaries are designed to stimulate in-depth historical and philosophical engagement with one of the major passages discussed in class and the relevant secondary literature. Undergraduates who earn an A- or higher on their first commentary can petition to write a roughly 7 page **term paper** (Term Paper 2 style; see below) in lieu of a second commentary.
 
-- **Graduate students** will be expected to write _either_ a **passage commentary** and a 12--15 page **final paper** _or_ a 20 page **final paper**. The final paper will address a substantive interpretive issue concerning Aristotle's metaphysics, natural science, and/or related philosophical issues. Topics and secondary literature will be selected in consultation with me.
+- **Graduate students** will be expected to write three roughly 7 page **term papers**, each addressing a substantive interpretive issue concerning Aristotle's metaphysics, natural science, and/or related philosophical issues. These papers are intended to be exercises in advanced philosophical writing, so students will be responsible for submitting substantial **outlines** and **preliminary drafts**, on which I will provide comments aimed at helping the student compose a well-written and cogently argued **final draft**. Additionally, students will be given progressively greater discretion over the subject of their papers over the course of the term:
+  - **Term Paper 1** topics will be chosen from a list of prompts given by me.
+  - **Term Paper 2** topics may _either_ be chosen from a list of prompts given by me _or_ proposed by the student in consultation with me.
+  - **Term Paper 3** topics _must_ be proposed by the student in consultation with me.
 
-- Class participation will be evaluated on the basis of the student's answer to periodic **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.)
+- **Participation** will be evaluated on the basis of student participation in discussions both in lecture meetings and outside of lecture meetings in the course chat (see below). 
 
-- Finally, students will give at least one 10--15 minute **in-class presentation**. Presentation topics and secondary literature will be selected in consultation with me.
+<!-- - Class participation will be evaluated on the basis of the student's answer to periodic **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.) -->
+
+- Finally, students will give at least two 10--15 minute **in-class presentations**. Students due to present in a given week will also be required to post three reading questions to the course chat no later than the Tuesday of that week. 
 
 ## Evaluation
 
@@ -57,20 +62,26 @@ Final grades will be determined according to the following rubrics:
 |-----------------|-------------------------------|
 | Commentary 1    | 25%                           |
 | Commentary 2    | 35%                           |
-| Presentation    | 20%                           |
+| Presentations   | 20%                           |
 | Participation   | 20%                           |
 | **Total**       | **100%**                      |
 
 ### Graduate Students
 
-| **Assignment**           | **% of Final Grade (Option 1)** | **% of Final Grade (Option 2)** |
-|--------------------------|---------------------------------|---------------------------------|
-| Commentary               |                             25% |                              —— |
-| Final Paper, 1^st^ Draft |                             35% |                             30% |
-| Final Paper, 2^nd^ Draft |                              —— |                             30% |
-| Presentation             |                             20% |                             20% |
-| Participation            |                             20% |                             20% |
-| **Total**                |                        **100%** |                        **100%** |
+| **Assignment**                 | **% of Final Grade** |
+|--------------------------------|----------------------|
+| Term Paper 1 Outline           |                   7% |
+| Term Paper 1 Preliminary Draft |                   8% |
+| Term Paper 1 Final Draft       |                   5% |
+| Term Paper 2 Outline           |                   5% |
+| Term Paper 2 Preliminary Draft |                   7% |
+| Term Paper 2 Final Draft       |                   8% |
+| Term Paper 3 Outline           |                   5% |
+| Term Paper 3 Preliminary Draft |                   5% |
+| Term Paper 3 Final Draft       |                  10% |
+| Presentations                  |                  20% |
+| Participation                  |                  20% |
+| **Total**                      |             **100%** |
 
 {{% alert note %}}
 You must complete _all_ assignments in order to pass the course!
@@ -101,15 +112,13 @@ Final grades are rounded up from the 2<sup>nd</sup> decimal place; no exceptions
 
 ### Required Texts
 
-There is one required text for the course:
+Primary sources will be drawn from throughout Aristotle's corpus. Required readings will be posted to Blackboard and shared via the course chat room. Students looking for reliable English translations of Aristotle's are encouraged to consult: 
 
 - Barnes, Johnathan (ed.). 1984. _The Complete Works of Aristotle: Revised Oxford Translation_. 2 vols. Princeton, NJ: Princeton University Press.
 
-It is available at Pandora.
-
 ### Additional Materials
 
-Additional readings will be posted to Blackboard. Scholarship on ancient epistemology since the late 20^th^ century has been for the most part excellent. Students seeking additional resources are encouraged to consult the bibliographies included with relevant entries in the [_Stanford Enclyclopedia of Philosophy_](plato.stanford.edu).
+Scholarship on ancient epistemology since the late 20^th^ century has been for the most part excellent. Students seeking additional resources are encouraged to consult the bibliographies included with relevant entries in the [_Stanford Enclyclopedia of Philosophy_](plato.stanford.edu).
 
 <!-- , as well as the following resources, which are on hold at the library: -->
 
@@ -130,7 +139,7 @@ Office hours and appointments will also be held [via Zoom <i class="fas fa-video
 
 ### Email Policy
 
-Feel free to ask questions to me, your TA, or your classmates in the class chat, either in public or in private. If you must email me, please allow me two business days to respond. Please do not email me with questions of philosophical substance---that is what lecture, discussion, and office hours are for---and please consult this syllabus before asking questions about course policy.
+Feel free to ask questions to me or your classmates in the class chat, via either public or private messages. If you must email me, please allow me two business days to respond. Please do not email me with questions of philosophical substance---that is what lecture, discussion, and office hours are for---and please consult this syllabus before asking questions about course policy.
 
 ### Late Submission Policy
 
