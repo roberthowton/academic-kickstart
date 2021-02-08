@@ -85,13 +85,13 @@ Our ability to credit you with these modes of engagement depends on your ability
 
 Final grades will be determined according to the following rubric:
 
-| Assignment                     | Percentage of Final Grade |
-|--------------------------------|---------------------------|
-| Reading Responses (x4)         |                     12.5% |
-| Argument Analysis 1            |                       20% |
-| Term Test 2                    |                       20% |
-| Participation                  |                       10% |
-| **Total**                      |                  **100%** |
+| Assignment             | Percentage of Final Grade |
+|------------------------|---------------------------|
+| Reading Responses (x4) |                     12.5% |
+| Argument Analysis 1    |                       20% |
+| Argument Analysis 2    |                       20% |
+| Participation          |                       10% |
+| **Total**              |                  **100%** |
 
 {{% alert note %}}
 You must complete _all_ assignments in order to pass the course. No extra assignments will be given.
