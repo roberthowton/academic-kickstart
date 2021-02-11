@@ -126,7 +126,7 @@ Most of the readings for this course are collected in:
 
 Ariew, Roger and Eric Watkins, eds. _Modern Philosophy: an Anthology of Primary Sources_, 3<sup>rd</sup> ed. Indianapolis, Ind: Hackett Pub. Co, 2019.
 
-It is available at Pandora. Additional readings will be posted to Blackboard.
+It is available at [Pandora <i class="fas fa-external-link-alt"></i>](https://www.pandora.com.tr/urun/modern-philosophy-3e-an-anthology-of-primary-sources/715808). Additional readings will be posted to Blackboard.
 
 ### Additional Materials
 
