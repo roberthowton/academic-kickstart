@@ -21,5 +21,5 @@ weight: 11
 | <span>         |                                                                                                                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Instructor** | [Robert Howton <i class="far fa-envelope"></i>](mailto:rhowton@ku.edu.tr)                                                                                                                                 |
-| _Office Hours_ | [_TBA_ and by appointment <i class="fas fa-video"></i>](https://kocun.zoom.us/my/rhowton) (via Zoom)                                                                                                      |
+| _Office Hours_ | [Tuesdays 16:00--17:00 and by appointment <i class="fas fa-video"></i>](https://kocun.zoom.us/my/rhowton) (via Zoom)                                                                                      |
 | **Lectures**   | [TuTh 14:30--15:45 <i class="fas fa-video"></i>](https://ku.blackboard.com/webapps/blackboard/content/launchLink.jsp?course_id=_40612_1&tool_id=_2179_1&tool_type=TOOL&mode=cpview&mode=reset) (via Zoom) |
