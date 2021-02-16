@@ -51,7 +51,7 @@ After attending lecture, you will be responsible for working your way through th
 
 Your success in meeting these objectives will be assessed on the following bases:
 
-1. Completion of five **reading responses** assigned at the beginning of each Unit and due one week after its completion. The questions assigned in each of the reading responses are designed to orient your reading as well as to gauge your comprehension of the assigned texts.
+1. Completion of four **reading responses** assigned at the beginning of each Unit and due one week after its completion. The questions assigned in each of the reading responses are designed to orient your reading as well as to gauge your comprehension of the assigned texts.
 
 2. Two 3--5 page **argument analysis** papers, each dedicated to an important passage discussed in lecture.
 
