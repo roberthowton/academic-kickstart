@@ -15,7 +15,9 @@ Students can sign up for presentations via Blackboard. The deadline for choosing
 
 # Presentation Format and Questions
 
-Each presentation must be accompanied by a slide show, which will be submitted to me on the day of the presentation. Slide shows should dedicate a slide (or a section of the slide show) to answering each of the following questions:
+Each presentation must be accompanied by a slide show, which will be submitted to me on the day of the presentation. Slide shows should dedicate a slide (or a section of the slide show) to answering each of the following questions. 
+
+Additionally, presenters will be asked to share discussion questions---which may or may not be identical to the student's answer to question 5 below---no later than the Tuesday before the Thursday they are scheduled to present
 
 1. **What is the problem or puzzle the paper addresses?**
   
