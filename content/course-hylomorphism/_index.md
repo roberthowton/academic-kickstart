@@ -41,7 +41,7 @@ Students' success in meeting these course goals will be evaluated on the followi
 
 - **Undergraduate students** will be expected to write **two passage commentaries** of roughly 7 pages each. The commentaries are designed to stimulate in-depth historical and philosophical engagement with one of the major passages discussed in class and the relevant secondary literature. Undergraduates who earn an A- or higher on their first commentary can petition to write a roughly 7 page **term paper** (Term Paper 2 style; see below) in lieu of a second commentary.
 
-- **Graduate students** will be expected to write three roughly 7 page **term papers**, each addressing a substantive interpretive issue concerning Aristotle's metaphysics, natural science, and/or related philosophical issues. These papers are intended to be exercises in advanced philosophical writing, so students will be responsible for submitting substantial **outlines** and **preliminary drafts**, on which I will provide comments aimed at helping the student compose a well-written and cogently argued **final draft**. Additionally, students will be given progressively greater discretion over the subject of their papers over the course of the term:
+- **Graduate students** will be expected to write three 5--7 page **term papers**, each addressing a substantive interpretive issue concerning Aristotle's metaphysics, natural science, and/or related philosophical issues. These papers are intended to be exercises in advanced philosophical writing, so students will be responsible for submitting substantial **outlines** and **preliminary drafts**, on which I will provide comments aimed at helping the student compose a well-written and cogently argued **final draft**. Additionally, students will be given progressively greater discretion over the subject of their papers over the course of the term:
   - **Term Paper 1** topics will be chosen from a list of prompts given by me.
   - **Term Paper 2** topics may _either_ be chosen from a list of prompts given by me _or_ proposed by the student in consultation with me.
   - **Term Paper 3** topics _must_ be proposed by the student in consultation with me.
@@ -50,7 +50,7 @@ Students' success in meeting these course goals will be evaluated on the followi
 
 <!-- - Class participation will be evaluated on the basis of the student's answer to periodic **reading response questions**, which will be distributed in advance and must be turned in prior to the start of the meeting in which the relevant reading is to be discussed. (Students may opt out of reading responses with no penalty a maximum of _three_ times; students who do not opt out of three reading responses may use these to replace lower-scoring responses; with the exception of University excused absences, which must be supported by official documentation, students must complete all other reading responses and attend all other class meetings.) -->
 
-- Finally, students will give at least two 10--15 minute **in-class presentations**. Students due to present in a given week will also be required to post three reading questions to the course chat no later than the Tuesday of that week. 
+- Finally, undergraduate students will make one, and graduate students two, 10--15 minute **in-class presentations**. Students due to present in a given week will also be required to post three reading questions to the course chat no later than the Tuesday of that week. 
 
 ## Evaluation
 
