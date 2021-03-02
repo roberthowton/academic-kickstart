@@ -1,7 +1,7 @@
 ---
 title: "Unit 2 | Aristotle's Argument for Hylomorphism"
 author: ["Robert Howton"]
-draft: true
+draft: false
 linktitle: "Unit 2"
 ---
 
@@ -175,7 +175,247 @@ All things come from _to apeiron_ (lit., the unbounded)
 :EXPORT\_FILE\_NAME: unit2
 
 
-## 2.2 | A Solution to the Puzzle {#2-dot-2-a-solution-to-the-puzzle}
+## 2.2 | A Solution to the Puzzles {#2-dot-2-a-solution-to-the-puzzles}
 
 
 ### _Physics_ 1.7 {#physics-1-dot-7}
+
+-   Aim of the chapter: to establish "the number and nature of the principles" of coming to be (_to genēsthai_).
+
+-   _How?_ By analyzing the different ways in which things are _said_ to come to be.
+
+
+#### Analysis of Coming-to-Be {#analysis-of-coming-to-be}
+
+>
+>
+> _Physics_ 1.7, 189b32--34 (Hardie and Gaye tr.)
+>
+> We say that ‘one thing comes to be from another thing, and something from something different', in the case both of simple and of complex things.
+
+-   A. distinguishes 3 ways of characterizing a single episode of coming to be.
+    1.  "Socrates (the human being) becomes musical"
+
+    2.  "That which is not musical becomes musical"
+
+    3.  "Non-musical Socrates becomes musical Socrates"
+
+-   First Pass:
+    -   In (1) and (2), both "that which becomes" and "what it becomes" are **simple**.
+
+    -   In (3), both "that which becomes" and "what it becomes" are **complex** (or **combined**, _sunkeitai_)
+
+|            | "That Which Becomes" | "What It Becomes" |
+|------------|----------------------|-------------------|
+| _Simple_   | Socrates             | Musical           |
+| _Simple_   | The Non-Musical      | Musical           |
+| "Combined" | Non-Musical Socrates | Musical Socrates  |
+
+-   Simple cases, in detail:
+
+>
+>
+> _Physics_ 1.7, 190a9--13 (Hardie and Gaye tr.)
+>
+> When a simple thing is said to become something, in one case it survives [10] through the process, in the other it does not. For the man remains a man and is such even when he becomes musical, whereas what is not musical or is unmusical does not survive, either simply or combined with the subject.
+
+Question
+: In which simple case of coming-to-be does "that which becomes" survive (lit., "remain, persist"; _hupomenon_)?
+
+
+Answer:
+    -   **Socrates** survives coming to be musical.
+
+    -   **The Non-Musical** does not survive coming to be musical.
+
+
+#### Two Conditions on Coming to Be {#two-conditions-on-coming-to-be}
+
+>
+>
+> _Physics_ 1.7, 190a13--17 (Hardie and Gaye tr.)
+>
+> These distinctions drawn, one can gather from surveying the various cases of becoming in the way we are describing that (1) there must always be an underlying [15] something, namely that which becomes, and (2) that this, though always one numerically, in form at least is not one. (By ‘in form’ I mean the same as ‘in account’.)
+
+Subject Condition (SC)
+: In every case of coming to be, there must be some underlying subject, _s_, such that it is true '_s_ comes to be...'.
+
+
+Persistance Condition (PC)
+: In every case of coming to be, the underlying subject must remain **one in number**, although not **one in form** or **logos**.
+    -   Cf. Aristotle's account of numerical unity in _Metaphysics_ &Delta;:
+
+>
+>
+> _Metaphysics_ &Delta; 6, 1017a30--34 (Ross tr.)
+>
+> Again, some things are one in number, others in species,
+> others in genus, others by analogy; in number those whose
+> matter is one, in species [= form] those whose formula is one, in genus
+> those to which the same figure of predication applies, by
+> analogy those which are related as a third thing is to a fourth.
+
+
+#### Varieties of Coming to Be {#varieties-of-coming-to-be}
+
+>
+>
+> Things are said to come to be in different ways. In some cases we do not use the expression ‘come to be’, but ‘come to be so-and-so’. Only substances are said to come to be without qualification.
+
+Qualified Coming to Be
+: _s_ comes to be _F_ (for some predicable _F_ in a non-substance category)
+
+
+Unqualified Coming to Be
+: _s_ comes to be (or: _s_ comes to be _an F_, for some kind of substance _F_)
+
+
+#### Applying SC and PC {#applying-sc-and-pc}
+
+-   Subject Condition applies to both qualified and unqualified coming to be.
+
+>
+>
+> _Physics_ 1.7, 190a33--b5 (Hardie and Gaye tr.)
+>
+> Now in all cases other than substance it is plain that there must be something underlying, namely, that which becomes. For when a thing comes to be of such a quantity or quality or in such a relation, time, or place, a subject is always [35] presupposed, since substance alone is not predicated of another subject, but everything else of substance.
+>
+> But that substances too, and anything that can be said to be without [190 b 1] qualification, come to be from some underlying thing, will appear on examination. For we find in every case something that underlies from which proceeds that which comes to be; for instance, animals and plants from seed.
+
+Question
+: What about PC?
+    -   **Qualified Coming to Be:** Of course! It is the substance, or _tode ti_:
+
+>
+>
+> _Physics_ 1.7, 190b24--28 (Hardie and Gaye tr.)
+>
+> Now the subject is one numerically, though it is two in form. (For there is the man, the gold—in general, the countable **matter**; for it is more of the nature of a [25] ‘this’, and what comes to be does not come from it accidentally; the privation, on the other hand, and the contrariety are accidental.)
+
+Unqualified Coming to Be
+: The "matter" of substance/subject of unqualified coming to be is knowable on analogy to the matter of qualified comings to be:
+
+>
+>
+> _Physics_ 1.7, 191a9--12 (Hardie and Gaye tr.)
+>
+> The underlying nature can be known by analogy. For as the bronze is to the [10] statue, the wood to the bed, or the matter and the formless before receiving form to any thing which has form, so is the underlying nature to substance, i.e. the ‘this’ or existent.
+
+-   Initial formulation of **matter**:
+
+>
+>
+> _Physics_ 1.9, 192a31--33 (Hardie and Gaye tr.)
+>
+> For my definition of matter is just this—the primary substratum of each thing, from which it comes to be, and which persists in the result, not accidentally.
+
+
+#### Resolution to the Puzzle {#resolution-to-the-puzzle}
+
+-   All coming to be is complex in that which comes to be:
+
+>
+>
+> _Physics_ 1.7, 190b11--15 (Hardie and Gaye tr.)
+>
+> Thus, from what has been said, whatever comes to be is always complex. There is, on the one hand, something which comes to be, and again something which becomes that—the latter in two senses, either the subject or the opposite. By the opposite I mean the unmusical, by the subject, man; and similarly I call the absence of shape or form or order the opposite, and the bronze or stone or gold the [15] subject.
+
+-   What comes to be is the **Form** (_morphē_), e.g. Musical
+
+-   What comes to be is always a "compound" (_suntheton_) involving:
+    -   The **Subject** (_hupokeimenon_), e.g. Socrates
+
+    -   The **Opposite** or **Privation**, e.g. Non-Musical
+
+-   Hence, there are (depending on how one describes the coming to be) either two or three principles:
+
+>
+>
+> _Physics_ 1.7, 190b29--191a2 (Hardie and Gaye tr.)
+>
+> There is a sense, therefore, in which we must declare the principles to be two, and a sense in which they are three; a sense in which the contraries are the [30] principles—say for example the musical and the unmusical, the hot and the cold, the tuned and the untuned—and a sense in which they are not, since it is impossible for the contraries to be acted on by each other. But this difficulty also is solved by the fact that what underlies is different from the contraries; for it is itself not a [35] contrary. The principles therefore are, in a way, not more in number than the contraries, but as it were two; nor yet precisely two, since there is a difference of [191 a 1] being, but three. For to be man is different from to be unmusical, and to be unformed from to be bronze.
+
+
+### _Physics_ 1.8 {#physics-1-dot-8}
+
+Aim of the chapter
+: to show that _only_ this analysis of coming to be can solve "the difficulty of the early thinkers, as well as our own".
+
+
+#### A Dilemmatic Argument {#a-dilemmatic-argument}
+
+>
+>
+> _Physics_ 1.8, 191a25--31 (Hardie and Gaye tr.)
+>
+> The first of those who studied philosophy ... say that none of the things that are either comes to be or passes out of existence, because what comes to be must do so either from what is or from what is not, both of which are impossible.
+>
+> For what is cannot come to be [30] (because it is already), and
+>
+> from what is not nothing could have come to be (because something must be underlying).
+
+-   If _x_ comes to be, it must come to be either
+    -   from what is, or
+
+    -   from what is not.
+
+-   _x_ cannot come to be from what is, since what-is already _is_
+
+-   _x_ cannot come to be from what-is-not, since something must be underlying (SC, no generation _ex nihilo_)
+
+-   _Therefore_, it is not the case that _x_ comes to be.
+
+
+#### The Aristotelian Intervention {#the-aristotelian-intervention}
+
+Distinguish (1) coming to be from what is not _without qualification_ (which is impossible) from (2) coming to be from what is _not-F_, where _F_ is incidental to what something comes to be from:
+
+>
+>
+> A doctor builds a house, not qua doctor, but qua housebuilder, and turns gray, not qua [5] doctor, but qua dark-haired. On the other hand he doctors or fails to doctor qua doctor. But we are using words most appropriately when we say that a doctor does something or undergoes something, or becomes something from being a doctor, if he does, undergoes, or becomes qua doctor. Clearly then also to come to be so-and-so from what is not means ‘qua what is not’.
+
+The _Qua_ Operator
+: _x_ does &phi; <span class="underline">qua F</span> iff _x_ does &phi; <span class="underline">in _x_'s capacity as (an) F</span>
+
+
+#### Responding to the Dilemma {#responding-to-the-dilemma}
+
+<!--list-separator-->
+
+-  Disarming the Second Horn
+
+    Recall: that which comes to be is complex, including both **subject** (which survives as a constituent of that which comes to be) and **privation** (which is something which is not and does not survive).
+
+    >
+    >
+    > _Physics_ 1.8, 191b13--17 (Hardie and Gaye tr.)
+    >
+    > We ourselves are in agreement with them in holding that nothing can be said without qualification to come from what is not. But nevertheless we maintain that a thing may come to be from what is not in a qualified sense, i.e. accidentally. For a [15] thing comes to be from the privation, which in its own nature is something which is not—this not surviving as a constituent of the result. Yet this causes surprise, and it is thought impossible that something should come to be in the way described from what is not.
+
+<!--list-separator-->
+
+-  Disarming the First Horn
+
+    Recall: the subject in every case comes to be _F_ from being _not-F_:
+
+    >
+    >
+    > _Physics_ 1.8, 191b17--25 (Hardie and Gaye tr.)
+    >
+    > In the same way we maintain that nothing comes to be from what is, and that what is does not come to be except accidentally. In that way, however, it does, just as animal might come to be from animal, and an animal of a certain kind from an animal of a certain kind. Thus, suppose a dog to come to be from a dog, or a horse [20] from a horse. The dog would then, it is true, come to be from animal (as well as from an animal of a certain kind) but not as animal, for that is already there. But if anything is to become an animal, not accidentally, it will not be from animal; and if what is, not from what is—nor from what is not either, for it has been explained that [25] by ‘from what is not’ we mean qua what is not.
+
+
+### Lingering Questions {#lingering-questions}
+
+Details of Unqualified Coming to Be
+: What is the subject of substantial generation? What is the relevant privation? Isn't it the case that substances lacks contraries (_Cat._ 5)?
+
+
+A Puzzling Reference
+: A. claims that the same dilemma has been solved elsewhere in terms of **potentiality** (_dunamis_) and **actuality** (_energeia_). _Where, and how?_
+
+>
+>
+> _Physics_ 1.8, 191b27--29 (Hardie and Gaye tr.)
+>
+> This then is one way of solving the difficulty. Another consists in pointing out that the same things can be spoken of in terms of potentiality and actuality. But this has been done with greater precision elsewhere.
