@@ -312,7 +312,7 @@ Question
 
     -   However, the matter of the chair is not earth.
 
-    -   **Deep Point:** matter is the **potential** for form, which, in turn, is that **actualization** of some material potential.
+    -   matter is the **potential** for form, which, in turn, is that **actualization** of some material potential.
 
 
 ## Questions for Unit 1 {#questions-for-unit-1}

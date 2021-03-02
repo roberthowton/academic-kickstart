@@ -2,7 +2,7 @@
 title: "Unit 1 | Background: Ontology & Explanation in the Organon"
 author: ["Robert Howton"]
 draft: false
-type: "book"
+linktitle: "Unit 1"
 ---
 
 Organon
@@ -185,31 +185,31 @@ Organon
 
                 | Mnemonic | Form                |
                 |----------|---------------------|
-                | Barbara  | AaB, BaC &#8866 AaC |
-                | Celarent | AeB, BaC &#8866 AeC |
-                | Darii    | AaB, BiC &#8866 AiC |
-                | Ferio    | AeB, BiC &#8866 AoC |
+                | Barbara  | AaB, BaC \vdash AaC |
+                | Celarent | AeB, BaC \vdash AeC |
+                | Darii    | AaB, BiC \vdash AiC |
+                | Ferio    | AeB, BiC \vdash AoC |
 
             -   Syllogisms in the second and third figures proved by conversion and reduction to one of the "perfect" first figure syllogisms; figures differ according to where the **middle term** (the term that appears in both premises) appears in each premise.
                 -   Second Figure
 
                     | Mnemonic  | Form                |
                     |-----------|---------------------|
-                    | Ceasare   | AeB, AaC &#8866 BeC |
-                    | Camestres | AaB, AeC &#8866 BeC |
-                    | Festino   | AeB, AiC &#8866 BoC |
-                    | Baroco    | AaB, AoC &#8866 BoC |
+                    | Ceasare   | AeB, AaC \vdash BeC |
+                    | Camestres | AaB, AeC \vdash BeC |
+                    | Festino   | AeB, AiC \vdash BoC |
+                    | Baroco    | AaB, AoC \vdash BoC |
 
                 -   Third Figure
 
                     | Mnemonic | Form                |
                     |----------|---------------------|
-                    | Darapti  | AaC, BaC &#8866 AiB |
-                    | Felapton | AeC, BaC &#8866 AoB |
-                    | Disamis  | AiC, BaC &#8866 AiB |
-                    | Datisi   | AaC, BiC &#8866 AiB |
-                    | Bocardo  | AoC, BaC &#8866 AoB |
-                    | Ferison  | AeC, BiC &#8866 AoB |
+                    | Darapti  | AaC, BaC \vdash AiB |
+                    | Felapton | AeC, BaC \vdash AoB |
+                    | Disamis  | AiC, BaC \vdash AiB |
+                    | Datisi   | AaC, BiC \vdash AiB |
+                    | Bocardo  | AoC, BaC \vdash AoB |
+                    | Ferison  | AeC, BiC \vdash AoB |
 
 
 ### Syllogistic and Explanation {#syllogistic-and-explanation}
