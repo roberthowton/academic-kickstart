@@ -1,6 +1,7 @@
 ---
 title: "Unit 2 | Aristotle's Argument for Hylomorphism"
 author: ["Robert Howton"]
+date: 2021-03-11T16:00:00+03:00
 draft: false
 linktitle: "Unit 2"
 ---
@@ -233,9 +234,11 @@ Answer:
 
 >
 >
-> _Physics_ 1.7, 190a13--17 (Hardie and Gaye tr.)
+> _Physics_ 1.7, 190a13--21 (Hardie and Gaye tr.)
 >
-> These distinctions drawn, one can gather from surveying the various cases of becoming in the way we are describing that (1) there must always be an underlying [15] something, namely that which becomes, and (2) that this, though always one numerically, in form at least is not one. (By ‘in form’ I mean the same as ‘in account’.)
+> These distinctions drawn, one can gather from surveying the various cases of becoming in the way we are describing that there must always be an underlying [15] something, namely that which becomes, and that this, though always one numerically, in form at least is not one. (By ‘in form’ I mean the same as ‘in account’.)...
+>
+> One part survives, the other does not: what is not an opposite survives (for the man survives), but [20] not-musical or unmusical does not survive, nor does the compound of the two, namely the unmusical man.
 
 Subject Condition (SC)
 : In every case of coming to be, there must be some underlying subject, _s_, such that it is true '_s_ comes to be...'.
@@ -419,3 +422,217 @@ A Puzzling Reference
 > _Physics_ 1.8, 191b27--29 (Hardie and Gaye tr.)
 >
 > This then is one way of solving the difficulty. Another consists in pointing out that the same things can be spoken of in terms of potentiality and actuality. But this has been done with greater precision elsewhere.
+
+
+## 2.3 | Substantial vs. Non-Substantial Coming to Be {#2-dot-3-substantial-vs-dot-non-substantial-coming-to-be}
+
+
+### Basic Notions {#basic-notions}
+
+
+#### Kinds of Coming to Be/Passing Away {#kinds-of-coming-to-be-passing-away}
+
+Coming-to-be/generation
+: _to genēsthai_, _genesis_
+
+Passing away/corruption
+: _phthora_
+
+Cf. _GC_ 1.4, 319b30--320a2
+
+-   Qualified
+    -   **Growth/Diminution:** Change of contraries (_metabolē tēs enantōseōs_) in the category of quantity
+
+    -   **Locomotion:** Change of contraries in the category of place
+
+    -   **Alteration:** Change in the category of "affection (_pathos_) and quality"
+
+-   Unqualified
+    -   **Generation/Destruction:** Change in which "nothing persists of which the other is generally an affection or accident".
+
+    -   **Question:** Is this account of unqualified coming to be consistent with the _Physics_ 1 account? Recall:
+        -   **Subject Condition (SC):** In every case of coming to be, there must be some underlying subject, _s_, such that it is true '_s_ comes to be...'.
+
+        -   **Persistance Condition (PC):** In every case of coming to be, the underlying subject must remain **one in number**, although not **one in form** or **logos**.
+
+
+#### Basics of Aristotelian Mereology {#basics-of-aristotelian-mereology}
+
+Elements
+: That into which all bodies are ultimately divided, but which are not themselves divided into anything different in kind (_Metaph._ 1014a32--35)
+
+
+Homoiomeres
+: Lit. "same-parts"; compound bodies of which the parts are the same in kind as the whole (e.g. flesh, bone, sinew, blood)
+
+
+Functional Parts (_organa_)
+: Compound bodies defined in terms of their function, and whose parts are not the same in kind as the whole (e.g., nose, hand)
+
+
+Substances
+: Compound bodies not present in anything else as part.
+
+
+#### Transformation of the Elements {#transformation-of-the-elements}
+
+Sublunary Aristotelian Simple Bodies (&asymp; Elements)
+: Earth, Air, Fire, Water
+
+
+Primary Differentia of Simple Bodies
+: Hot and Cold, Wet and Dry
+    -   **Fire:** Hot + Dry
+
+    -   **Air:** Hot + Moist
+
+    -   **Water:** Cold + Moist
+
+    -   **Earth:** Cold + Dry
+
+
+Reciprocal Transformation of the Elements
+: The coming to be of the elemental bodies is cyclical, effected by a replacement of a single pair of contraries between one element and the other.
+    -   Air comes to be from Fire by the replacement of Dry with Moist
+
+    -   Water comes to be from Air by the replacement of Cold with Hot
+
+    -   Earth comes to be from Water by the replacement of Moist with Dry
+
+    -   Fire comes to be from Earth by the replacement of Cold with Hot
+
+<!--listend-->
+
+Question
+: Is elemental transformation possible without **prime matter**?
+
+
+### The Tasks of _GC_ 1.1--4 {#the-tasks-of-gc-1-dot-1-4}
+
+>
+>
+> _GC_ 1.1, 314a1--5 (Williams tr.)
+>
+> Our task now is:
+>
+> 1.  to pick out the causes and definitions of generation and corruption common to all those things which come to be and perish in the course of nature; and
+> 2.  secondly to investigate growth and alteration, asking what each of them is, and whether we are to suppose that the nature of alteration and generation is the same or different, as they are certainly distinguished in name.
+
+-   _GC_ 1.1--3 are concerned principally with Task 1, specifically with articulating a basic account of unqualified generation and corruption
+
+-   GC 1.4--5 are concerned principally with Task 2, distinguishing unqualified generation from both alteration and growth
+-   Why is Task 2 so pressing?
+
+-   As A. tells us at the end of _GC_ 1.2:
+
+>
+>
+> _GC_ 1.2 317a17--26 (Williams tr.)
+>
+> Nevertheless, coming to be simpliciter, i.e. absolutely, is not defined by aggregation and segregation, as some say; nor is change in what is continuous the same as alteration. This is just where all the mistakes are made. Coming to be and ceasing to be simpliciter occur, not in virtue of aggregation and segregation, but when something changes from this to that as a whole. These people think that all such change is alteration, but there is in fact a distinction. **For within the substratum there is something which corresponds to the definition and something which corresponds to the matter. When, therefore, the change takes place in these it will be generation or corruption: when it takes place in the affections, accidentally, it will be alteration.**
+
+
+### The Basic Model of Generation in _GC_ 1.1--3 {#the-basic-model-of-generation-in-gc-1-dot-1-3}
+
+Answers 2 questions:
+
+1.  What is generation/corruption without qualification (or absolutely, or _simpliciter_)? Why is it that some coming to be is absolute, while some is not?
+
+>
+>
+> _GC_ 1.3, 317b12--34 (Williams tr.)
+>
+> The dilemmas that arise concerning these matters and their solutions have been set out at greater length elsewhere, but it should now again be said by way of summary that in one way it is from what is not that a thing comes to be simpliciter, though in another way it is always from what is; for that which is potentially but is not actually must pre-exist, being described in both these ways.
+>
+> But even when these distinctions have been made, there remains a question of remarkable difficulty, which we must take up once again, namely, how is coming to be simpliciter possible, whether from what is potentially or some other way. One might well wonder whether there is coming to be of substance and the individual, as opposed to quality, quantity, and place (and the same question arises in the case of ceasing to be). For if something comes to be, clearly there will exist potentially, not actually, some substance from which the coming to be will arise and into which that which ceases to be has to change. Now will any of the others belong to this actually?
+>
+> What I mean is: Will that which is only potentially individual and existent, but neither individual nor existent simpliciter, have any quality or quanity or place?
+>
+> 1.  If it has none of these, but all of them potentially, (a) that which in this sense is not will consequently be separable, and further, (b) the principal and perpetual fear of the early philosophers will be realized, namely, the coming to be of something from nothing previously existing.
+>
+> 2.  But if being individual and a substance are not going to belong to it while some of the other things we have mentioned are, the affections will, as we have remarked, be separable from the substances.
+
+1.  If there is unqualified generation/corruption, why does it persist? Why doesn't the total quantity of bodies continually shrink into non-existence?
+
+>
+>
+> _GC_ 1.3, 318b33--319a3 (Williams tr.)
+>
+> We have now stated the reason why there is such a thing as generation simpliciter, which is the corruption of something, and such a thing as corruption simpliciter, which is the generation of something: it is due to a difference of matter:
+>
+> -   either in respect of its being substance or not being substance,
+> -   or in respect of its being more or less so,
+> -   or because in the one case the matter from which or to which the change takes place is more perceptible and in the other case less perceptible.
+
+Question
+: How does this account of absolute generation apply to the transformation of the elements?
+
+
+### Distinguishing Absolute Generation from Alteration (_GC_ 1.4) {#distinguishing-absolute-generation-from-alteration--gc-1-dot-4}
+
+>
+>
+> _GC_ 1.4, 319b8--21 (Williams tr.)
+>
+> The substratum is one thing and the affection whose nature is to be predicated of the substratum another, and either of them can change.
+>
+> Alteration
+> : So it is alteration when the substratum remains, being something perceptible [i.e., a _tode ti_ or individual] but change occurs in the affections which belong to it, whether these are contraries or intermediates. For example, the body is well then ill, but remains the same body; the bronze is now round, now a thing with corners, but remains the same [sc. bronze].
+>
+>
+> Generation
+> : When, however, the whole changes without anything perceptible remaining as the same substratum, but the way:
+>
+>     -   the seed changes entirely into blood,
+>     -   water into air,
+>     -   or air entirely into water,
+>
+>     then, when we have this sort of thing, it is a case of generation (and corrpution of something else); particularly if the change takes place from what is imperceptible to what is perceptible either by touch or by the other senses, as when water is generated or corrupts into air, since air is---near enough---imperceptible.
+>
+> In these cases [sc. of generation] if some affection that is one of a pair of contraries remains the same in the thing generated as it was in the thing that has perished, e.g. when water comes from air, if both are transparent or <wet, but not> cold, this must not have the other, the terminus of the change, as an affection of itself. Otherwise it will be alteration.
+
+{{< figure src="/ox-hugo/subject-formmatter.png" >}}
+
+
+### The Unqualified Nature of Elemental Transformations {#the-unqualified-nature-of-elemental-transformations}
+
+>
+>
+> _GC_ 1.4, 319b21--31 (RFH rough tr.)
+>
+> Ἐν δὲ τούτοις ἄν τι ὑπομένῃ πάθος τὸ αὐτὸ ἐναντιώ
+> σεως ἐν τῷ γενομένῳ καὶ τῷ φθαρέντι, οἷον ὅταν ἐξ ἀέρος
+> ὕδωρ, εἰ ἄμφω διαφανῆ ἢ ψυχρά, οὐ δεῖ τούτου θάτερον
+> πάθος εἶναι εἰς ὃ μεταβάλλει. Εἰ δὲ μή, ἔσται ἀλλοίωσις,
+> [25] οἷον ὁ μουσικὸς ἄνθρωπος ἐφθάρη, ἄνθρωπος δ' ἄμουσος ἐγέ-
+> νετο, ὁ δ' ἄνθρωπος ὑπομένει τὸ αὐτό.
+>
+> Εἰ μὲν οὖν τούτου μὴ
+> πάθος ἦν καθ' αὑτὸ ἡ μουσικὴ καὶ ἡ ἀμουσία, τοῦ μὲν γένε-
+> σις ἦν ἄν, τοῦ δὲ φθορά· διὸ ἀνθρώπου μὲν ταῦτα πάθη,
+> ἀνθρώπου δὲ μουσικοῦ καὶ ἀνθρώπου ἀμούσου γένεσις καὶ
+> [30] φθορά· νῦν δὲ πάθος τοῦτο τοῦ ὑπομένοντος. Διὸ ἀλλοίωσις τὰ
+> τοιαῦτα.
+>
+> [I] In those things in which some affection from among a pair of contraries remains the same in both what comes to be and what is destroyed---for instance, when water [comes to be] from air, assuming both are transparent or ~~cold~~ [moist?]---the other, into which it changes, must not be an affection of it. If it is, it will be [a case of] alteration, as [when] the musical person perishes and the unmusical person comes to be, the person remains the same.
+>
+> [II] **Hence if _musical_ and _unmusical_ were not _per se_ affections of this [sc. the person], we would have generation of the latter and passing away of the former.** This is why they are affections of a person, whereas of _musical person_ and _unmusical person_ we have generation and destruction. As it is, however, this is an affection of what remains, for which reason [transformations] of this sort are [cases of] alteration.
+
+Upshot of [I]
+: On pain of being cases of alteration, it cannot be supposed that the persisting subject of elemental transformations is the quality that inheres in both what comes to be and what perishes.
+
+
+Upshot of [II]
+: Despite the superficial similarity in the locutions (1) "the musical person comes to be the unmusical person" and (2) "the hot moist comes to be the cold moist", they describe two ontologically distinct changes:
+    -   In (1), the affections _musical_ and _unmusical_ are affections of the person _as such_, which therefore persists through the alteration as subject.
+
+    -   In (2), however, the affections _hot_ and _cold_ are affections of the moist only _incidentally_, in the way the pale thing (the person who happens to be pale) is musical or unmusical. Hence it is wrong to suppose that the moist is a subject of predication, much less that it persists through the transition from hot to cold.
+
+
+### Two Interpretive Strategies (Pros and Cons) {#two-interpretive-strategies--pros-and-cons}
+
+Question
+: What, if anything, is the subject of which _moist_, _hot_, and _cold_ are predicated?
+    -   **First air, then water:** Coheres with A.'s denial of a persistent subject in unqualified generation, but at the cost of treating elemental transformation (and all substantial coming-to-be) as a process of "sheer replacement".
+
+    -   **Prime matter:** Avoids the "sheer replacement" model, and perhaps enjoys some textual support, but the metaphysical victory is pyrrhic: what sort of improvement is it to say that water comes to be from pure potentiality?
