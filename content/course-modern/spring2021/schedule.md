@@ -71,7 +71,6 @@ Topics and readings subject to change.
 |               | <i class="fa fa-book-open"></i> Margaret Cavendish, Selections from _Philosophical Letters_                                                                                            |
 | 16, 18 Mar    | **2.2** _Is Mind-Body Interaction a Miracle? Malebranch & Leibniz on Substance_                                                                                                        |
 |               | <i class="fa fa-book-open"></i> G. W. Leibniz, _New System_                                                                                                                            |
-|               | <i class="fa fa-book-open"></i> Damaris Cudworth, Selections from _Correspondence with Leibniz_                                                                                        |
 | 23, 25 Mar    | **2.3** _"Whatever Is, Is in God": Spinoza on Substance,Mind, and Body_                                                                                                                |
 |               | <i class="fa fa-book-open"></i> Baruch Spinoza, _Ethics_ Ip1--Ip15, Appendix; IIp1--IIp13                                                                                              |
 | 30 Mar, 1 Apr | **2.4** _Idealism: Berkeley's Empiricist Critique of Matter_                                                                                                                           |
