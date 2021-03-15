@@ -3,6 +3,7 @@ title: "Unit 2 | Aristotle's Argument for Hylomorphism"
 author: ["Robert Howton"]
 date: 2021-03-11T16:00:00+03:00
 draft: false
+weight: 120
 linktitle: "Unit 2"
 ---
 
