@@ -3,8 +3,8 @@ title: "How to Write a Commentary"
 linktitle: Commentary
 date: 2020-11-30
 type: book
-draft: true
-weight: 2
+draft: false
+weight: 3
 ---
 
 # What is a Commentary?
