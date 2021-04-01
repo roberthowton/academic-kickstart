@@ -174,7 +174,7 @@ All things come from _to apeiron_ (lit., the unbounded)
 
 -   So the principles are either two or three, "but whether two or three is a question of considerable difficulty".
 
-:EXPORT\_FILE\_NAME: unit2
+:EXPORT_FILE_NAME: unit2
 
 
 ## 2.2 | A Solution to the Puzzles {#2-dot-2-a-solution-to-the-puzzles}

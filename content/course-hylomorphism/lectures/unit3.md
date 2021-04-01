@@ -1,6 +1,7 @@
 ---
 title: "Unit 3 | Natural Substances as Hylomorphic Compounds"
 author: ["Robert Howton"]
+date: 2021-03-31T17:16:00+03:00
 draft: false
 weight: 130
 linktitle: "Unit 3"
@@ -357,3 +358,192 @@ Answer
 > If then there is to be a house, such-and-such things must be made or be there already or exist, or generally [25] the matter relative to the end, bricks and stones if it is a house. But the end is not due to these except as the matter, nor will it come to exist because of them. Yet if they do not exist at all, neither will the house, or the saw—the former in the absence of stones, the latter in the absence of iron...
 
 Cause _sine qua non_ (without which not).
+
+
+## 3.3 | A Hylomorphic Model of Animal Generation {#3-dot-3-a-hylomorphic-model-of-animal-generation}
+
+
+### _GC_ 2.9 | Return to the Number and Nature of the Principles of Coming-to-Be {#gc-2-dot-9-return-to-the-number-and-nature-of-the-principles-of-coming-to-be}
+
+_Physics_ 1.7
+: The principles of coming to be are three - form, privation, and subject.
+
+
+_Physics_ 2.1
+: These principles can be consigned to matter (subject) and form (form and privation).
+
+
+_GC_ 2.9
+: There is a third principle "present over and above" matter and form...
+
+    >
+    >
+    > _GC_ 2.9, 335a28--32 (Joachim tr.)
+    >
+    > The principles, then, are equal in number to, and identical in
+    > kind with, those in the sphere of the eternal and primary
+    > things. For there is one in the sense of matter, and a second in
+    > the sense of form; and, in addition, the third must be present
+    > [30] as well. For the two are not sufficient to bring things into
+    > being, any more than they are adequate to account for the
+    > primary things.
+
+
+#### Against "Purely Material" Explanations of Generation {#against-purely-material-explanations-of-generation}
+
+3 Problems:
+
+<!--list-separator-->
+
+-  Matter is _passive_
+
+    >
+    >
+    > _GC_ 2.9, 335b30--34 (Joachim tr.)
+    >
+    > For, to beginwith, it is characteristic of matter to suffer
+    > action, i.e. to be moved; but to move, i.e. to act, belongs to a
+    > different power. This is obvious both in the things that
+    > come-to-be by art and in those that come-to-be by nature.
+    > Water does not of itself produce out of itself an animal; and it
+    > is the art, not the wood, that makes a bed.
+
+<!--list-separator-->
+
+-  "Omits the more controlling cause"
+
+    >
+    >
+    > _GC_ 2.9, 335b34--5 (Joachim tr.)
+    >
+    > Nor is this their only error. They make a second mistake in omitting the more
+    > controlling cause; for they eliminate the essential nature, i.e.
+    > the form.
+
+<!--list-separator-->
+
+-  Mistakes _instruments_ used by the cause for the cause itself
+
+    >
+    >
+    > _GC_ 2.9, 336a1--14 (Joachim tr.)
+    >
+    > And what is more, since they remove the
+    > formal cause, they invest the forces they assign to the simple
+    > bodies—the forces which enable these bodies to bring things
+    > into being—with too instrumental a character. For since (as
+    > they say) it is the nature of the hot to dissociate, of the cold to
+    > bring together, and of each remaining [5] contrary either to
+    > act or to suffer action, it is out of such materials and by their
+    > agency (so they maintain) that everything else comes-to-be
+    > and passes-away. Yet it is evident that even Fire is itself
+    > moved, i.e. suffers action. Moreover their procedure is
+    > virtually the same as if one were to treat the saw (and the
+    > various instruments of [10] carpentry) as the cause of the
+    > things that come-to-be; for the wood must be divided if a man
+    > saws, must become smooth if he planes, and so on with the
+    > remaining tools. Hence, however true it may be that Fire is
+    > active, i.e. sets things moving, there is a further point they fail
+    > to observe—viz. that Fire is inferior to the tools or
+    > instruments in the manner in which it sets things moving.
+
+
+#### Against "Purely Formal" Explanations of Generation {#against-purely-formal-explanations-of-generation}
+
+<!--list-separator-->
+
+-  The view
+
+    Socrates "safe" hypothesis regarding "the cause of generation and destruction":
+
+    >
+    >
+    > Plato, _Phaedo_ 100d--101d (Grube tr.)
+    >
+    > I no longer understand or recognize those other sophisticated causes,
+    > and if someone tells me that a thing is beautiful because it has a bright
+    > color or shape or any such thing, I ignore these other reasons—for all these
+    > confuse me—but I simply, naively and perhaps foolishly cling to this, that
+    > nothing else makes it beautiful other than the presence of, or the sharing
+    > in, or however you may describe its relationship to that Beautiful we
+    > mentioned, for I will not insist on the precise nature of the relationship,
+    > but that all beautiful things are beautiful by the Beautiful. That, I think,
+    > is the safest answer I can give myself or anyone else. And if I stick to this
+    > I think I shall never fall into error. This is the safe answer for me or anyone
+    > else to give, namely, that it is through Beauty that beautiful things are
+    > made beautiful. Or do you not think so too?—I do.
+    >
+    > ...
+    >
+    > Then would you not avoid saying that when one is added to one it is
+    > the addition and when it is divided it is the division that is the cause of
+    > two? And you would loudly exclaim that you do not know how else each
+    > thing can come to be except by sharing in the particular reality in which
+    > it shares, and in these cases you do not know of any other cause of becoming
+    > two except by sharing in Twoness, and that the things that are to be two
+    > must share in this, as that which is to be one must share in Oneness, and
+    > you would dismiss these additions and divisions and other such subtleties,
+    > and leave them to those wiser than yourself to answer.
+
+<!--list-separator-->
+
+-  Objections to the view
+
+    <!--list-separator-->
+
+    -  The "intermittancy" of generation
+
+        >
+        >
+        > _GC_ 2.9, 335b18--20 (Joachim tr.)
+        >
+        > For if the Forms
+        > are causes, why is their generating activity intermittent
+        > instead of perpetual and continuous—since there always are
+        > participants as well as Forms?
+
+    <!--list-separator-->
+
+    -  Ignores other causes
+
+        >
+        >
+        > _GC_ 2.9, 335b20--24 (Joachim tr.)
+        >
+        > Besides, in some instances we see [20]
+        > that the cause is other than the Form. For it is the doctor who
+        > implants health and the man of science who implants science,
+        > although Health itself and Science itself are as well as the
+        > participants; and the same principle applies to everything else
+        > that is produced in accordance with a capacity.
+
+
+#### The Third Principle {#the-third-principle}
+
+>
+>
+> _GC_ 2.9, 335a33--b8
+>
+> Now cause, in the sense of matter, for the things which are
+> such as to come-to-be is that which can be and not be; and
+> this is identical with that which can come to be and pass
+> away, since the latter, while it is at one time, at another time
+> is not. (For whereas some things are of necessity, viz. the
+> eternal things, others of necessity are not. And of these two
+> sets of things, since they cannot diverge from the [335b1]
+> necessity of their nature, it is impossible for the first not to be
+> and impossible for the second to be. Other things, however,
+> can both be and not be.) Hence coming-to-be and
+> passing-away must occur within the field of that which can be
+> and not be.
+>
+> This, therefore, is cause in the sense of matter for
+> the things which are such as to [5] come-to-be; while cause,
+> in the sense of their end, is their figure or form—and that is
+> the formula expressing the substance of each of them.
+>
+> But the third principle must be present as well—the cause
+> vaguely dreamed of by all our predecessors, definitely stated
+> by none of them.
+
+Strangely, A. does not refer to the third cause by name, but it should be clear what sort of cause A.'s objections to the "purely material" and "purely formal" accounts of change point to: **the mover** (typically---among perishable things---the efficient cause).
