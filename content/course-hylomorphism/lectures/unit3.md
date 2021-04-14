@@ -401,7 +401,7 @@ _GC_ 2.9
     >
     > _GC_ 2.9, 335b30--34 (Joachim tr.)
     >
-    > For, to beginwith, it is characteristic of matter to suffer
+    > For, to begin with, it is characteristic of matter to suffer
     > action, i.e. to be moved; but to move, i.e. to act, belongs to a
     > different power. This is obvious both in the things that
     > come-to-be by art and in those that come-to-be by nature.
@@ -437,7 +437,9 @@ _GC_ 2.9
     > act or to suffer action, it is out of such materials and by their
     > agency (so they maintain) that everything else comes-to-be
     > and passes-away. Yet it is evident that even Fire is itself
-    > moved, i.e. suffers action. Moreover their procedure is
+    > moved, i.e. suffers action.
+    >
+    > Moreover their procedure is
     > virtually the same as if one were to treat the saw (and the
     > various instruments of [10] carpentry) as the cause of the
     > things that come-to-be; for the wood must be divided if a man
