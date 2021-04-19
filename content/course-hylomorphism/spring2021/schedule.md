@@ -80,18 +80,17 @@ Topics and readings subject to change.
 | **Unit 4** | **Consequences for a Theory of Substance**                                                                           |
 | 6,8 Apr    | _No Class_: Spring Break                                                                                             |
 |            | **4.1** Is Substance Matter, Form, or What is From Them? Some Puzzles                                                |
-| 13 Apr     | <i class="fa fa-book-open"></i> _Metaphysics_ Z.1--4                                                                 |
+| 13 Apr     | <i class="fa fa-book-open"></i> _Metaphysics_ Z.1--4, 6                                                              |
 | 15 Apr     | <i class="fa fa-book-open"></i> Lewis, "Subjects in _Metaphysics Zeta_ 3"                                            |
 |            | <i class="fa fa-book-open"></i> Lewis, "Sameness, Substitution, and Essence (II)"                                    |
 |            | **4.2** Solutions: Substance as Cause of Being                                                                       |
-| 20 Apr     | <i class="fa fa-book-open"></i> _Metaphysics_ Z.6, 15--17                                                            |
+| 20 Apr     | <i class="fa fa-book-open"></i> _Metaphysics_ Z.15--17                                                               |
 |            | <i class="fa fa-book-open"></i> _Metaphysics_ Z.7--9 (Optional)                                                      |
 | 22 Apr     | <i class="fa fa-book-open"></i> Charles, "Definition and Explanation in the _Posterior Analytics_ and _Metaphysics_" |
-|            | <i class="fa fa-book-open"></i> Lewis, "The _Posterior Analytics_, and a Fresh Approach to Defining Substance"       |
 | **Unit 5** | **Applications: the Soul in Animal Generation**                                                                      |
 |            | **5.1** Soul as the Form of a Living Body                                                                            |
 | 27 Apr     | <i class="fa fa-book-open"></i> _De Anima_ 2.1--3                                                                    |
-| 29 Apr     | <i class="fa fa-book-open"></i> Johansen, "Circumscribing the Soul: _De Anima_ 1.1 and 2.2"                          |
+| 29 Apr     | <i class="fa fa-book-open"></i> Whiting, "Living Bodies"                                                             |
 |            | <i class="fa fa-book-open"></i> Johansen, "Towards a Scientific Definition of the Soul: _DA_ 2.2"                    |
 |            | **5.2** Closer to a "Scientific" Account of Soul                                                                     |
 | 4 May      | <i class="fa fa-book-open"></i> _De Anima_ 2.4, 3.12--13                                                             |
