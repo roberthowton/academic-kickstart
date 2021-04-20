@@ -1,6 +1,7 @@
 ---
 title: "Unit 4 | Consequences for a Theory of Substance"
 author: ["Robert Howton"]
+date: 2021-04-20T15:49:00+03:00
 draft: false
 weight: 140
 linktitle: "Unit 4"
@@ -280,3 +281,204 @@ Answer unclear...
     > 1031b28--1032a4 (Ross tr.)
     >
     > The absurdity of the separation would appear also if one were to assign a name to each of the essences; for there would be another essence besides the original one, e.g. to the essence of horse there will belong a second essence. Yet why should not [30] some things be their essences from the start, since essence is substance? **But not only are a thing and its essence one, but the formula of them is also the same, as is [1032a1] clear even from what has been said; for it is not by accident that the essence of one, and the one, are one. Further, if they were different, the process would go on to infinity; for we should have the essence of one, and the one, so that in their case also the same infinite regress would be found. Clearly, then, each primary and self-subsistent thing is one and the same as its essence.**
+
+
+## 4.2 | Solutions: Substance as a Cause of Being {#4-dot-2-solutions-substance-as-a-cause-of-being}
+
+
+### Aristotle's "Fresh Start" in _Metaphysics_ Z.17 {#aristotle-s-fresh-start-in-metaphysics-z-dot-17}
+
+>
+>
+> _Metaphysics_ Z.17, 1041a6--22 (Ross tr.)
+>
+> We should say what, and what sort of thing, substance is, taking another starting-point; for perhaps from this we shall get a clear view also of that substance which exists apart from sensible substances.
+>
+> Since, then, **substance is a principle and a cause**, let us attack it from this standpoint.
+>
+> Observation
+> : The ‘why’ is always [10] sought in this form—‘why does one thing attach to another?’ For to inquire why the musical man is a musical man, is either to inquire—as we have said—why the man is musical, or it is something else.
+>
+>
+> Objection
+> : Now ‘why a thing is itself’ is doubtless a meaningless inquiry; for the fact or the existence of the thing must already be [15] evident (e.g. that the moon is eclipsed), but **the fact that a thing is itself is the single formula and the single cause to all such questions as why the man is man, or the musical musical,** unless one were to say that each thing is inseparable from itself; and its being one just meant this.
+>
+>
+> Revision
+> : This, however, is common to all things and is a short and easy way with the question. But we can inquire why man is an animal of [20] such and such a nature. Here, then, we are evidently not inquiring why he who is a man is a man. We are inquiring, then, why something is predicable of something...
+
+
+### Background: Inquiry and Explanation in the _Analytics_ {#background-inquiry-and-explanation-in-the-analytics}
+
+
+#### How Is Inquiry Possible? Meno's Paradox {#how-is-inquiry-possible-meno-s-paradox}
+
+Recall Meno's Paradox:
+
+P1
+: For any item of knowledge, _x_, either one knows _x_ or one does not know _x_.
+
+P2
+: If one knows _x_, one cannot inquire about _x_.
+
+P3
+: If one does not know _x_, one cannot inquire about _x_.
+
+C
+: Therefore, one cannot inquire about _x_.
+
+
+#### Two Solutions to the Paradox {#two-solutions-to-the-paradox}
+
+Plato
+: "learning" (_mathēsis_) is "recollection" (_anamnēsis_)
+
+
+Aristotle
+: all "inquiry" (_zētēsis_) is a "search for the "middle term":
+    -   Inquiry begins with prior knowledge of the "that" (_hoti_), some universal fact.
+
+    -   From there the inquirer seeks to know the "why" (_dihoti_), the explanation of that universal fact.
+
+    -   The why is given by the middle term of a demonstration of the fact known.
+
+
+#### The Structure of a Demonstration {#the-structure-of-a-demonstration}
+
+"Why?" Question
+: Why are all S's P?
+
+
+Demonstrative Explanation
+: Because M!
+
+| Major Premise | All M are P     |
+|---------------|-----------------|
+| Minor Premise | All S are M     |
+| Conclusion    | So, all S are P |
+
+
+#### An Example {#an-example}
+
+The "That"
+: The moon is eclipsed.
+
+
+"Why?" Question
+: Why is the moon eclipsed?
+
+
+Demonstrative Explanation
+: Because the earth is interposed between it and the sun!
+
+| Major Premise | Everything the earth is interposed between is eclipsed |
+|---------------|--------------------------------------------------------|
+| Minor Premise | The earth is interposed between the moon               |
+| Conclusion    | So, the moon is eclipsed                               |
+
+
+#### The Indemonstrability of Principles {#the-indemonstrability-of-principles}
+
+-   For some demonstrations it will be possible to ask "why?" even about the premises, e.g.:
+    -   **"Why?" Question:** Why do broad-leafed plants shed their leaves?
+
+    -   **Explanation:** M = their sap coagulates at the stem of the leaf
+
+-   However, on pain of an infinite regress, there must be demonstrative premises about which one cannot coherently ask "why?" (_APo_ 1.3). these "first principles" will therefore be "immediate" because "unmiddled"; there is no middle term explaining the connection between subject and predicate.
+
+-   Three kinds of first principle:
+    -   **Axioms:** For all _p_, _p_ or not-_p_.
+
+    -   **Posits:** A triangle is a three-sided closed plane figure.
+
+    -   **Definitions:** **A human being is a rational animal.**
+
+
+### _Metaphysics_ Z.17's "Fresh Start" Revisited {#metaphysics-z-dot-17-s-fresh-start-revisited}
+
+Proposal
+: Substance can be understood as the **cause of being**.
+
+
+Objection
+: Causal explanations are explanations of why some predicate belongs to some subject per se and in virtue of its essence, but to say that (e.g.) a human being is a rational animal is not a predication but a definition!
+
+
+Revision
+: Definitions _can_ be understood as a kind of predication and as a subject of scientific inquiry:
+
+    >
+    >
+    > _Metaphysics_ Z.17, 1041a22--b32 (Ross tr.)
+    >
+    > ... _that_ it is predicable must be clear; for if not, the inquiry is an inquiry into nothing. [25]
+    >
+    > -   E.g. why does it thunder?—why is sound produced in the clouds?
+    >
+    > Thus the inquiry is about the predication of one thing of another.
+    >
+    > -   And why are certain things, i.e. stones and bricks, a house?
+    >
+    > **Plainly we are seeking the cause. And this is the essence (to speak abstractly), which in some cases is that for the sake of which, e.g. perhaps [30] in the case of a house or a bed, and in some cases is the first mover; for this also is a cause. But while the efficient cause is sought in the case of genesis and destruction, the final cause is sought in the case of being also.**
+
+
+#### Example: Substance as the Cause of Being of a House {#example-substance-as-the-cause-of-being-of-a-house}
+
+The "That"
+: This configuration of stones and bricks is a house.
+
+
+"Why?" Question
+: Why is this configuration of stones and bricks a house?
+
+
+Demonstrative Explanation
+: Because they are a shelter for persons and their possessions (= SHELTER)!
+
+| Major Premise | Every SHELTER is a house                                |
+|---------------|---------------------------------------------------------|
+| Minor Premise | This configuration of stones and bricks is a SHELTER    |
+| Conclusion    | So, this configuration of stones and bricks is a house. |
+
+>
+>
+> _Metaphysics_ Z.17, 1041b6--8
+>
+> ...Clearly the question is _why_ the matter is some individual thing, e.g. why are these materials a house? Because that which was the essence of a house is present. And why is this individual thing, or this body in this state, a man? **Therefore what we seek is the cause, i.e. the form, by reason of which the matter is some definite thing; and this is the substance of the thing.**
+
+
+#### Two Causes of Being {#two-causes-of-being}
+
+"That for the sake of which"
+: E.g., why is this configuration of wood a bed? Because it is a platform for lying on, and this (say) is what it is to be a bed. Why is this configuration of flesh and bones (or an animal of such and such a sort) a human being? Because it is a rational animal, and this is just what a human being is.
+
+
+"The first mover"
+: E.g. why is this configuration of flesh and bones (or an animal of such and such a sort) going to be a human being? Because it is the production of a rational animal, and this is just what a human being is.
+
+
+### Questions Arising {#questions-arising}
+
+-   How does Aristotle's extension of the _Analytics_ model to explanations of the _being_ (as opposed to per se attributes) of substances account for the "indemonstrability" of definitions?
+
+    Relevant text from _Posterior Analytics_ 2.10 (93b36--94a12):
+
+>
+>
+> Thus one definition of definition is the one stated; another definition is an account which makes clear why a thing is. Hence the former type of definition signifies but does not prove, whereas the latter evidently will be a sort of [94a1] demonstration of what a thing is, differing in position from the demonstration.
+>
+> For there is a difference between saying why it thunders and what thunder is; for in the one case you will say: Because the fire is extinguished in the clouds. What is thunder?—A noise of fire being extinguished in the clouds. Hence the same account [5] is put in a different way, and in this way it is a continuous demonstration, in this way a definition.
+>
+> Again, a definition of thunder is noise in the clouds; and this is a conclusion of the demonstration of what it is.
+>
+> The definition of immediates is an undemonstrable positing of what they are. [10] **One definition, therefore, is an undemonstrable account of what a thing is; one is a deduction of what it is, differing in aspect from the demonstration; a third is a conclusion of the demonstration of what it is.**
+
+-   What about simple essences?
+
+>
+>
+> _Metaphysics_ Z.17, 1041b9--10 (Ross tr.)
+>
+> Evidently, then, in the case of simple things no inquiry nor teaching is possible; but we must [10] inquire into them in a different way.
+
+Of what sorts of substances are the essences simple?
