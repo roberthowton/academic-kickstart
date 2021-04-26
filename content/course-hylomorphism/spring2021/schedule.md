@@ -37,10 +37,11 @@ Subscribe to the calendar to stay up-to-date with assignments and meetings.
 | 14 Apr | Commentary 1 Due             |                                    |
 | 16 Apr |                              | Term Paper 2 Outline Due           |
 | 23 Apr |                              | Term Paper 2 Preliminary Draft Due |
-| 26 Apr | Commentary 2 Passages Posted |                                    |
+| 3 May  | Commentary 2 Passages Posted |                                    |
 | 30 Apr |                              | Term Paper 2 Final Draft Due       |
 | 10 May |                              | Term Paper 3 Outline Due           |
-| 24 May | Commentary 2 Due             | Term Paper 3 Preliminary Draft Due |
+| 24 May |                              | Term Paper 3 Preliminary Draft Due |
+| 31 May | Commentary 2 Due             |                                    |
 | 7 Jun  |                              | Term Paper 3 Final Draft Due       |
 
 ## Schedule of Topics & Readings
