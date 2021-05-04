@@ -1,7 +1,7 @@
 ---
 title: "Unit 5 | Applications: the Soul in Animal Generation"
 author: ["Robert Howton"]
-date: 2021-04-28T10:15:00+03:00
+date: 2021-05-04T16:04:00+03:00
 draft: false
 weight: 150
 linktitle: "Unit 5"
@@ -209,3 +209,137 @@ Represented schematically:
 
 The upshot?
 : "The account of each of these [sc. capacities of soul] will also be the most appropriate account of the soul [itself]" (415a14--15).
+
+
+## 5.2 | Closer to a Scientific Account of Soul {#5-dot-2-closer-to-a-scientific-account-of-soul}
+
+Our discussion of _De Anima_ 2 left off with Aristotle on his way to a significant conclusion: the proper subject of the science of soul is not the soul itself but its constituent _capacities_ --- including the capcities for nutrition, reproduction, locomotion, and thought.
+
+How does he arrive at this conclusion?
+
+
+### The Unity of Psychology {#the-unity-of-psychology}
+
+Aristotle showed in _DA_ 2.2 that no univocal definition (of the sort given in _DA_ 2.1) of soul could capture its role as the cause of life in the many ways in which living things are said to live. Instead, we need to study the soul of each kind of living thing individually:
+
+>
+>
+> _DA_ 2.3, 414b25--28 (Shields tr.)
+>
+> For this reason, it is ludicrous to seek a common account in these cases, or in other cases, an account which is not peculiar to anything which exists, and which does not correspond to any proper and indivisible species, while neglecting what is of this sort. Consequently, **one must ask individually what the soul of each is, for example, what the soul of a plant is, and what the soul of a man or a beast is.**
+
+This does not mean, however, that there is not unified _science_ of psychology, as opposed to a set of unrelated sciences of botany, zoology, and anthropology. To the contrary, there is a systematic relation among the capacities of soul present in plants, animals, and humans:
+
+>
+>
+> _DA_ 2.3, 414b29--415a13 (Shields tr.)
+>
+> What holds in the case of the soul is very close to what holds concerning figures: for **in the case of both figures and ensouled things, what is prior is always present potentially in what follows in a series**---for example, the triangle in the square, and the nutritive faculty in the perceptual faculty. One must investigate the reason why they are thus in a series.
+>
+> -   For the percepual faculty is not without the nutritive, though the nutritive faculty is separated from the perceptual in plants.
+>
+> -   Again, without touch, none of the other senses are present, though touch is present without the others; for many animals have neither sight nor hearing nor a sense of smell.
+>
+> -   Also, among things capable of perceiving, some have motion in respect of place, while others do not.
+>
+> -   Lastly, and most rarely, some have reasoning and understanding. For among perishable things, to those to which reasoning belongs all the remaining capacities also belong, though it is not the case that reasoning belongs to each of those with each of the others. Rather, imagination does not belong to some, while others live by this alone.
+>
+> A different account will deal with theoretical reason.
+
+Represented schematically:
+
+{{< figure src="/ox-hugo/souls.jpg" width="750" >}}
+
+Therefore
+: "The account of each of these [sc. capacities of soul] will also be the most appropriate account of the soul [itself]" (415a14--15).
+
+
+### Consequences of this Conclusion {#consequences-of-this-conclusion}
+
+Aristotle has defended the unity of psychology---i.e., the idea that there is a science of _soul_, understood as a cause of living, over and above the sciences of (e.g.) human life (anthropology), animal life (zoology), and plant life (botany)---by arguing that:
+
+1.  Psychological capcities can be shared by psychological kinds; and that
+
+2.  Psychological capacities exhibit regular patterns of ontological dependence across psychological kinds.
+
+Two important consequences follow from this conclusion.
+
+
+#### The Soul Operates as Cause of Life Activities in Various Ways {#the-soul-operates-as-cause-of-life-activities-in-various-ways}
+
+>
+>
+> _De Anima_ 2.4, 415b8--28 (Shields tr.)
+>
+> The soul is the cause and principle of the living body. As these things are spoken of in many ways, so the soul is spoken of as a cause in the three of the ways delineated: for **the soul is a cause (1) as the source of motion, (2) as that for the sake of which, and (3) as the substance of ensouled bodies.**
+>
+> -   That it is **a cause as substance** is clear: for substance is the cause of being for all things, and living is being for living things, while the cause and principle of living is the soul. Further, actuality is the _logos_ of that which is potentially.
+>
+> -   It is evident that the soul is **a cause as that for the sake of which**: just as reason acts for the sake of something, in the same way nature does so as well; and this is its end. And in living beings the soul is naturally such a thing. For all ensouled bodies are organs of the soul---just as it is for the bodies of animals, so is it for the bodies of plants---since they are for the sake of the soul. 'That for the sake of which' is spoken of in two ways: that on account of which and that for which.
+>
+> -   Moreover, the soul is also **that from which motion** in respect of place **first arises**, though this capacity does not belong to all living things. There are also alteration and growth in virtue of the soul; for perception seems to be a sort of alteration, and nothing perceives which does not partake of the soul. The same holds for both growth and decay; for nothing which is not nourished decays or grows naturally, and nothing is nourished which does not have a share of life.
+
+This consequence brings into clear focus exactly why a generic account of soul would fail to disclose the _way_ in which soul causes living things to live: namely because, depending on the kind of life (or life activity) in question, soul operates as cause in _different_ ways.
+
+
+#### The Dependencies Among Psychological Capacities Stand in Need of Explanation {#the-dependencies-among-psychological-capacities-stand-in-need-of-explanation}
+
+This is a consequence Aristotle acknowledges several times in _De Anima_ 2:
+
+>
+>
+> _DA_ 2.2 413b4--10 (Shields tr.)
+>
+> Being alive, then, belongs to living things because of this principle, but something is an animal primarily because of perception. For even those things which do not move or change place, but which have perception, we call animals and not merely alive. The primary form of perception which belongs to all animals is touch. But just as the nutritive capacity can be separated from touch and from the whole of perception, so touch can be separated from the other senses. By nutritive we mean the sort of part of the soul of which even plants have a share. But all animals evidently have the sense of touch. **The reason why both of these turn out to be the case we shall state later.**
+>
+> _DA_ 2.2, 413b27--414a4 (Shields tr.)
+>
+> It is evident from these things, though, that the remaining parts of the soul are not separable, as some assert. That they differ in account, however, is evident; for what it is to be the perceptual faculty is different from what it is to be the faculty of belief, if indeed perceiving differs from believing, and so on for each of the other faculties mentioned. Further, all of these belong to some animals, and som of them to others, and only one to still others. And this will provide a differentiation among animals. **It is necessary to investigate the reason why later.** Almost the same thing holds for the senses: for some animals have them all, others have some of them, and others have one, the most necessary, touch.
+>
+> _DA_ 2.3, 414b33--415a1 (Shields tr.)
+>
+> **One must investigate the reason why they are thus in a series.**
+
+
+### Explaining the Serial Dependencies Among Psychological Capacities {#explaining-the-serial-dependencies-among-psychological-capacities}
+
+Commentators usually look for the promised explanation in _DA_ 3.12--13, where, among other things, Aristotle accounts for the presence of capacities in different psychological kinds by appeal to **hypothetical necessity**:
+
+-   The nutritive soul is necessary for **all living things** to grow and reach (reproductive) maturity.
+
+-   Perception is not necessary for plants, but for animals it is, since without the capacity to perceive:
+    -   Animals could not acquire food,
+
+    -   Nor could they achieve "the goal (_telos_) that is the function (_ergon_) of their nature",
+
+    -   Nor could rational animals acquire "a discriminating mind" (_nous kritikos_).
+
+-   Not all of the senses are necessary for every kind of animal, since only animals who need locomotion in order to find food and avoid danger require the distance senses.
+
+-   For these "roaming" animals, moreover, these distance senses are present not only for the sake of being (_to einai_) and survival (_sotēria_), but also for the sake of _well-being_ (_to eu_).
+
+<!--listend-->
+
+Question
+: How does this answer the question of (e.g.) why all perceivers are also self-nourishers?
+
+
+#### A Clue to Aristotle's Strategy {#a-clue-to-aristotle-s-strategy}
+
+>
+>
+> _De Anima_ 2.4, 415a23--b7 (RFH tr.)
+>
+> For the nutritive soul belongs also to the others, and is the primary and most common capacity of soul in respect of which living belongs to all. (Its functions are reproducing and [in general] using food.) **For the most natural function for living things – those that are complete and not maimed or have spontaneous generation – is for it to produce another like itself, an animal an animal, a plant a plant, so that they may share as much as possible in the eternal and divine. For all strive for that, and do whatever they do by nature for the sake of that.** (And that for the sake of which is double: on the one hand that of which, on the other that for which.) So, since it cannot share in the eternal and divine in continuity, on account of the inability of any perishable thing to persist one and the same in number, each shares in it as much as it can partake, some more, some less; and not it but something like it persists, not one in number, but one in species.
+
+Question
+: What makes it true to say that all living things do everything they do by nature for the sake of sharing as much as possible in the eternal and divine?
+
+
+Possible Answer
+: The end for whose sake living things are endowed with the psychological capacities they naturally have is the activity that represents the best available means for that living thing to participate in the eternal and divine:
+    -   For sterile or spontaneously generated animals (non-reproducers), that activity is **nutrition** and **self-preservation**.
+
+    -   For the vast majority of fertile living things, that activity is **reproduction**, or eternal persistence _in kind_.
+
+    -   For rational living things, that activity is **theoretical contemplation** (see _EN_ 10.6--8).
