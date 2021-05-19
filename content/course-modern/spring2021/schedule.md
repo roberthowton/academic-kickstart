@@ -42,7 +42,7 @@ Subscribe to the calendar to stay up-to-date with assignments and meetings.
 | 3 May  | Unit 3 Self-Assessment Due               |
 | 4 May  | Unit 4 Reading Response Questions Posted |
 | 7 May  | Unit 3 Reading Response Due              |
-| 17 May | Argument Analysis 2 Due                  |
+| 19 May | Argument Analysis 2 Due                  |
 | 31 May | Unit 4 Self-Assessment Due               |
 | 4 Jun  | Unit 4 Reading Response Due              |
 
