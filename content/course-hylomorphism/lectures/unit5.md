@@ -1,7 +1,7 @@
 ---
 title: "Unit 5 | Applications: the Soul in Animal Generation"
 author: ["Robert Howton"]
-date: 2021-05-19T09:14:00+03:00
+date: 2021-05-25T15:47:00+03:00
 draft: false
 weight: 150
 linktitle: "Unit 5"
@@ -482,7 +482,23 @@ To the extent that Aristotle offers an answer, it comes in _GA_ 2.1, where Arist
 No comment...
 
 
+## 5.4 | Aristotle's Model of Embryogenesis {#5-dot-4-aristotle-s-model-of-embryogenesis}
+
+
 ### Introduction to Embryogenesis {#introduction-to-embryogenesis}
+
+In _GA_ 2, Aristotle turns from his discussion of the _principles_ of natural generation, the male and the female, to the question of how these principles generate offspring, a new substance the same in kind as the parents.
+
+Recall:
+
+Female Principle
+: The patient of natural generation; that which provides the matter for the substantial change.
+
+
+Male Principle
+: The agent of natural generation; that which shapes the matter into the
+
+By appeal to these principles, Aristotle applies the account of natural generation we saw him defend in _GC_ 2.9, although substantial puzzles remain:
 
 >
 >
@@ -504,4 +520,232 @@ No comment...
 >
 >         -   (2b''') or something containing soul.
 
-We consider these questions, and Aristotle's subsequent account of embryogenesis, next week.
+
+### Generation of the Offspring {#generation-of-the-offspring}
+
+
+#### The Leaving Home Analogy {#the-leaving-home-analogy}
+
+The puzzle over the nature of the male principle's agency in natural generation results from a kind of dilemma:
+
+1.  "Man begets man", so the cause of animal generation must be what is actually such as the offspring is potentially. Therefore the agent must be the male parent.
+
+2.  Alternatively, change requires contact between agent and patent, but in many cases of animal generation the male parent is in contact with the female only indirectly, by means of the presence of the male seed in the uterus. If then, the cause of animal generation is what is actually such as what the offspring is potentially, the male seed must be actually alive, and an animal! [= 2b]
+
+Aristotle's solution to this puzzle is typical: we can distinguish a variety of ways in which a thing (e.g. the male seed) can be said to have soul:
+
+>
+>
+> _GA_ 2.1, 735a9 ff. (Platt tr.)
+>
+> But a thing existing potentially may be nearer or further from its realization in [10] actuality, just as a sleeping geometer is further away than one awake and the latter than one actually studying.
+>
+> C1
+> : Accordingly it is not any part that is the cause of the soul’s coming into being, but it is the first moving cause from outside. (= 2a) **For nothing generates itself, though when it has come into being it thenceforward increases itself.**
+>
+>
+> C2
+> : Hence it is that only one part comes into being first and not all of them together.
+>     -   But that must first come into being which has a principle of increase (for [15] **this nutritive power exists in all alike, whether animals or plants, and this is the same as the power that enables an animal or plant to generate another like itself, that being the function of them all if naturally perfect**).
+>
+>     -   And this is necessary for the reason that whenever a living thing is produced it must grow.
+>
+> It is produced, then, by something else of the same name, as e.g. man is produced by man, but it is [20] increased by means of itself. There is, then, something which increases it. If this is a single part, this must come into being first. Therefore if the heart is first made in some animals, and what is analogous to the heart in the others which have no heart, it is from this or its analogue that the first principle of movement would arise.
+
+Aristotle compares this process to that of a son who leaves his father's home to establish one for himself:
+
+>
+>
+> _GA_ 2.4, 739b34 ff. (Platt tr.)
+>
+> When the embryo is once formed, it acts like the seeds of plants.
+>
+> -   For seeds also [35] contain the first principle of growth in themselves, and when this (which previously exists in them only potentially) has been differentiated, the shoot and the root are [740a1] sent off from it, and it is by the root the plant gets nourishment; for it needs growth.
+>
+> -   So also **in the embryo all the parts exist potentially in a way, but the first principle is furthest on the road to realization**.
+>
+> -   Therefore the heart is first differentiated in [5] actuality.
+>     -   This is clear not only to the senses (for it is so) but also on theoretical grounds. <span class="underline">For whenever the young animal has been separated from both parents it must be able to manage itself, like a son who has set up house away from his father</span>.
+>
+> -   **Hence it must have a first principle from which comes the ordering of the body at a later stage also**,
+>     -   for if it is to come in from outside at a later period to dwell in it, not [10] only may the question be asked at what time it is to do so,
+>
+>     -   but also we may object that, when each of the parts is separating from the rest, it is necessary that this principle should exist first from which comes growth and movement to the other parts.
+
+We will have a lot to say about the primacy of the heart (or its analogue in bloodless animals) in embryogenesis. First, let's consider the prior question of how it is that the embro is formed from the interaction of the male and female.
+
+
+#### Coming-to-Be of the Embryo {#coming-to-be-of-the-embryo}
+
+We've seen that Aristotle's account of the agent of natural generation relies on the idea that that the male seed has soul potentially but not actually. In fact, this is a point Aristotle also makes about the female seed---a fact confirmed in his eyes by the phenomenon of "wind-eggs".
+
+>
+>
+> _GA_ 2.3, 735b8 ff. (Platt tr.)
+>
+> It is plain that the semen and the embryo (here = female seed), while not yet separate, must be assumed to have the nutritive soul potentially, but not actually, until (like those [10] embryos that are separated from the mother) it absorbs nourishment and performs the function of the nutritive soul. For at first all such embryos seem to live the life of a plant.
+>
+> And it is clear that we must be guided by this in speaking of the sensitive and the rational soul. For all three kinds of soul, not only the nutritive, must be possessed potentially before they are possessed in actuality.
+>
+> And it is necessary [15] either that they should all come into being in the embryo without existing previously outside it, or that they should all exist previously, or that some should so exist and others not. Again, it is necessary that they should either come into being in the material supplied by the female without entering with the semen of the male, or come from the male and be imparted to the material in the female. If the latter, then either all of them, or none, or some must come into being in the male from [20] outside.
+
+Aristotle attributes to the male seed the cause of the coming into being of the perceptive soul (which is what makes the embryo an animal). Puzzlingly, though, neither it nor the female seed are responsible for the coming to be of the rational soul; rather, it comes from "without" (736b27).
+
+When the male and female principles are jointly activated, their respective potentials for soul are brought into actuality. Aristotle compares this process to the curdling of milk in the process of cheese-making.
+
+>
+>
+> _GA_ 2.4, 739b20 ff. (Platt tr.)
+>
+> [20] When the material secreted by the female in the uterus has been fixed by the semen of the male (this acts in the same way as rennet acts upon milk, for rennet is a kind of milk containing vital heat, which brings into one mass and fixes the similar material, and the relation of the semen to the menstrual blood in the same, milk and [25] the menstrual blood being of the same nature)—when, I say, the more solid part comes together, the liquid is separated off from it, and as the earthy parts solidify membranes form all round it; this is both a necessary result and for the sake of something, the former because the surface of a mass must solidify on heating as well as on cooling, the latter because the foetus must not be in a liquid but be separated [30] from it. Some of these are called membranes and others choria, the difference being one of more or less, and they exist in ovipara and vivipara alike.
+
+The process however is not just one of determining a bodily distinction between the embryo and the female seed. Given Aristotle's committment to the Homonymy Principle, no part of soul can be actually present in the embryo without the bodily organ necessary for its exercise. Hence, the "setting" or "fixing" of the embryo must coincide with the formation of the bodily organ for the capacity (or capacities?) of soul responsible for the following functions:
+
+-   Growth
+
+-   The "body plan", the principle which determines the order of embryological development.
+
+Aristotle identifies this organ as the heart, or it's analogue in bloodless animals. Why?
+
+
+### The Heart and Its Role in Embryogenesis {#the-heart-and-its-role-in-embryogenesis}
+
+
+#### Background: _De Anima_ {#background-de-anima}
+
+To answer this quesiton, I think we need to recall some important conclusions of Aristotle's discussion of nutritive soul in _DA_ 2.4:
+
+415a24--25
+: The nutritive soul is the capacity for both nutrition/growth and reproduction, both of which concern the processing and use of nutriment.
+
+
+Of these functions, reproduction takes teleological primacy, both over nutrition/growth but also over the other capacities of the soul:
+    -   **416b24--25:** "Since it is proper to call each thing after its _telos_, and the _telos_ is to generate another like oneself, the primary soul would be the faculty of generating another like oneself.
+
+    -   **415a25--b7:** The teleologically primary activity of most living things---those that are not sterile or spontaneously generated---is to generate another like themselves, since this (= eternity in form) is the best available means for most living things to participate in the eternal and divine.
+
+Moreover, as I argued in connection with _DA_ 3.12--13, the status of reproduction as the teleologically primary activity---that activity for whose sake living things do all they do by nature---enables Aristotle to explain the presence of other psychological capacities in living things by reference to their contribution to the living thing's ability to reach reproductive maturity and reproduce.
+
+Nutrition/Growth
+: All living things must take in food in order to grow and reach reproductive maturity.
+
+
+Sense Perception
+: Animals require senses, minimally touch and taste, in order to acquire the food they need to nourish themselves and grow.
+    -   **Distance Senses:** Roaming animals additionally require distance senses in order to spot food (as well as potential threats) from afar.
+
+This explanatory connection between reproduction and the other capacities and instrumental parts of the animal enables Aristotle to account for the order of the development of the parts of the animal in embrogenesis. In this sense, the nutritive soul contains the "body plan" of the entire organism, since the order of development and the ultimate morphology of the animal body will be the result of what it needs in order to achieve its teleologically primary activity.
+
+
+#### Explaining the Order of Embryological Development {#explaining-the-order-of-embryological-development}
+
+Aristotle's account of the order (_ti meta ti_) of embryological development is designed to explain three key observations about animal development:
+
+-   That the heart (or its analogue) develops first
+
+-   That the internal organs develop before the external parts
+
+-   That the upper parts of the animal develop before the lower
+
+Unsurprisingly, Aristotle attempts to explain these facts by appeal to the _teleological_ character of embryological development. This order, he argues can be explained on analogy with acquiring knowledge of how to play a musical instrument:
+
+>
+>
+> _GA_ 2.6, 742a17 ff. (Platt tr.)
+>
+> It is with the parts as with other things; one naturally exists prior to another. But the word ‘prior’ is used in more senses than one.
+>
+> -   For there is a difference between (1) the end or final cause and (2) that which exists for the sake of it; the latter is prior in order [20] of development, the former is prior in essence.
+>
+> -   Again, that which exists for the sake of the end admits of division into two classes, (2a) first the origin of the movement, and then (2b) that which is used by the end; I mean, for instance, that which can generate, and that which serves as an instrument to what is generated,
+>     -   for the one of these, that which makes, must exist first, as the teacher before the learner, and the other [25] later, as the pipes are later than he who learns to play upon them,
+>
+>     -   for it is superfluous that men who do not know how to play should have pipes.
+>
+> **Thus there are three things: (1) first, the end, by which we mean that for the sake of which something else exists; (2a) secondly, the principle of movement and of generation, [30] existing for the sake of the end (for that which can make and generate, considered simply as such, exists only in relation to what is made and generated); (2b) thirdly, the useful, that is to say what the end uses.**
+
+Aristotle distinguishes three _relata_ of teleological priority:
+
+End
+: or that for the sake of which, e.g. the student learning to play the flute.
+
+
+Source of Motion/Generation
+: which is for the sake of the End _as cause of its coming to be_, e.g. the teacher, who causes the student to learn the flute.
+
+
+Tools
+: which are for the sake of the End as instruments (ὀργανικά) used by the End for its exercise, e.g. flutes.
+
+The **Source of Motion/Generation** must be prior in generation to the **End**, since e.g. there can be no learner without a teacher.
+
+
+But the **End** must be prior in generation to the **Tools**, _since the latter are for the sake of the former_:
+    -   Flutes are posterior to the learner, since "it is superfluous for one who does not know how to play the flute to have flutes" (742a27--28)
+
+    -   Likewise, it would be superfluous for the end to possess tools which it could not yet use.
+
+    -   _Hence_, the end must be developmentally prior to what is for the sake of it, but not as a source of motion/generation.
+
+Aristotle uses this distinction in particular to explain the developmental priority of the part that contains the principle described above, i.e. the heart or its analogue, relative to the other parts of the body:
+
+>
+>
+> _GA_ 2.6, 742a33 ff. (RFH tr.)
+>
+> Given that, it is necessary for there first to be some part in which the principle of motion is present---for of course this part too is one part of the end, indeed the most controlling part). Next, after this [it is necessary for there to be] the whole and the end. Third and finally, [it is necessary for there to be] the parts instrumental for these [sc. previous parts] in relation to various uses.
+>
+> **Therefore if there is any such [part] that must be present in animals, [viz.] the part containing the source and end of [the animal's] entire nature, this must be generated first: first qua productive of motion, but along with the whole qua part of the end.** Therefore those among the instrumental parts that are generative of the [animal's] nature must in every case be present first, since they are for the sake of something else as principle, whereas those which are not such among the things for the sake of something else are posterior.
+
+Aristotle's claim is that the part that "contains the source and end of [the animal's] entire nature" (742b1--3) develops first _qua_ **Source of Motion** (i.e. organ of nutritive soul in its _threptic_ capacity), then _qua_ (part of the) **End** (i.e. organ of nutritive soul in its _reproductive_ capacity, perhaps as well as ultimate organ of perception; cf. 743b26--28).
+
+
+#### Animal Nature as a Good Household Manager {#animal-nature-as-a-good-household-manager}
+
+This accounts for the developmental priority of the heart. What about that of the upper parts relative to the lower parts and the internal parts relative to the external parts? The same sort of explanation applies, e.g.:
+
+>
+>
+> _GA_ 2.6, 742b13 ff. (Platt tr.)
+>
+> And for this reason that part which contains the first principle comes into being first, next to this the upper half of the body. This is why [15] the parts about the head, and particularly the eyes, appear largest in the embryo at an early stage, while the parts below the umbilicus, as the legs, are small; for the lower parts are for the sake of the upper, and are neither parts of the end nor able to form it.
+
+All tolled, Aristotle envisions a 4-stage process:
+
+Stage 1
+: The heart (or its analogue) _qua_ organ of generative principle.
+
+
+Stage 2
+: The heart (or its analogue) _qua_ organ of animal's natural end.
+
+
+Stage 3
+: "Instrumental" parts that are "parts of the end" [= organs for vital activities present for the sake of realizing the teleologically primary activity]
+
+
+Stage 4
+: "Instrumental" parts that are not "parts of the end" [= organs present for the sake of vital activities]
+
+There is, of course, a material component to these relations of developmental priority and posteriority, a component Aristotle takes to be reflected in the quality of the material (nutriment) from which each part is developed:
+
+>
+>
+> _GA_ 2.6, 744b11--27 (Leunissen tr.)
+>
+> Each of the other parts [i.e., instrumental parts arising in **Stages 3--4** ] is formed out of the nutriment, [ **Stage 3** ] the parts that are the noblest and that partake in the most important principle are formed from the nutriment which is concocted first and is purest; [ **Stage 4** ] the parts that are necessary, that is to say that are for the sake of the former parts, are formed from the inferior nutriment and the residues and leftovers. For just like a good housekeeper, so also nature is not in the habit of throwing away anything from which it is possible to make anything useful. Now in a household the best part of the food that comes in is set apart for [ **Stage 3** ] the free people, the inferior and the residue for [ **Stage 4.1** ] the slaves, and the worst is given to [ **Stage 4.2** ] the animals that live with them. Just as the intellect from the outside does those things with a view to growth, so nature in the things coming to be forms from the purest material [ **Stage 3** ] the flesh and the body of the other sense organs, and from the residues thereof [ **Stage 4.1** ] bones and sinews and [ **Stage 4.2** ] hair, and also nails and hoofs and all similar parts; for this reason these are the last to assume their formation, for they have to wait till the time when nature has some residue to spare.
+
+On the division of embryogenetic stages I proposed:
+
+Stage 3
+: Organs whose functions are vital activities and part of the end of the animal's nature (e.g. the peripheral sense organs) are formed out of first nutriment, i.e. blood.
+
+
+Stage 4
+: Organs whose functions are for the sake of vital activities but not part of the end of the animal's nature are formed out of inferior nutriment:
+
+    -   **4.1:** Organs whose functions are for the sake of vital activities and _necessary_ for the animal (e.g. bones, sinews) are made from the residues of Stage 3 parts.
+
+    -   **4.2:** Organs whose functions are for the sake of vital activities, but which are not necessary but _optimal_ for their performance (e.g. hair, nails, hooves) are made from whatever residue is left over.
+
+    On the view I have defended, each stage of this process occurs when and in exactly the way it does as a result of the body plan instituted by the part of living thing that contains "the end of its nature", it's teleologically primary activity. This view is not shared by all interpreters...
